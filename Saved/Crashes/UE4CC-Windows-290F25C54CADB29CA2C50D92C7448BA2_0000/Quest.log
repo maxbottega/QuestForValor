@@ -1,0 +1,1483 @@
+﻿Log file open, 09/23/17 16:53:23
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: Quest
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(398634602) SRandInit(398634602).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.165099
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.23-23.53.24:467][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.23-23.53.24:467][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.23-23.53.24:490][  0]LogInit: Computer: GDSTF03
+[2017.09.23-23.53.24:490][  0]LogInit: User: jponzio
+[2017.09.23-23.53.24:490][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.23-23.53.24:490][  0]LogInit: High frequency timer resolution =3.410097 MHz
+[2017.09.23-23.53.24:490][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.09.23-23.53.24:490][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.23-23.53.24:490][  0]LogMemory: Process Physical Memory: 284.23 MB used, 284.23 MB peak
+[2017.09.23-23.53.24:490][  0]LogMemory: Process Virtual Memory: 291.07 MB used, 291.07 MB peak
+[2017.09.23-23.53.24:490][  0]LogMemory: Physical Memory: 21283.79 MB used,  11400.51 MB free, 32684.30 MB total
+[2017.09.23-23.53.24:490][  0]LogMemory: Virtual Memory: 687.48 MB used,  11400.51 MB free, 8388608.00 MB total
+[2017.09.23-23.53.24:631][  0]LogInit: Using OS detected language (en-CA).
+[2017.09.23-23.53.24:631][  0]LogInit: Using OS detected locale (en-CA).
+[2017.09.23-23.53.24:633][  0]LogTextLocalizationManager: No specific localization for 'en-CA' exists, so the 'en' localization will be used.
+[2017.09.23-23.53.25:262][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.23-23.53.25:281][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P4000' (Feature Level 11_0)
+[2017.09.23-23.53.25:281][  0]LogD3D11RHI:       8085/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.09.23-23.53.25:281][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.23-23.53.25:287][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.23-23.53.25:287][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb1 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.23-23.53.25:287][  0]LogWindows: EnumDisplayDevices:
+[2017.09.23-23.53.25:287][  0]LogWindows:    0. 'NVIDIA Quadro P4000' (P:0 D:1)
+[2017.09.23-23.53.25:287][  0]LogWindows:    1. 'NVIDIA Quadro P4000' (P:1 D:1)
+[2017.09.23-23.53.25:287][  0]LogWindows:    2. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2017.09.23-23.53.25:287][  0]LogWindows:    3. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2017.09.23-23.53.25:287][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.09.23-23.53.25:287][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.09.23-23.53.25:287][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.09.23-23.53.25:288][  0]LogWindows:    7. 'DameWare Development Mirror Driver 64-bit' (P:0 D:0)
+[2017.09.23-23.53.25:288][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.09.23-23.53.25:288][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P4000
+[2017.09.23-23.53.25:288][  0]LogD3D11RHI:   Driver Version: 376.84 (internal:21.21.13.7684, unified:376.84)
+[2017.09.23-23.53.25:288][  0]LogD3D11RHI:      Driver Date: 2-6-2017
+[2017.09.23-23.53.25:288][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.23-23.53.25:298][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.23-23.53.25:312][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.09.23-23.53.25:406][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (E:/UnrealEngine/Projects/Quest_v4.17/Intermediate/Shaders/WorkingDirectory/20704/).
+[2017.09.23-23.53.25:406][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jponzio/AppData/Local/Temp/UnrealShaderWorkingDir/2074D59C4D41548ADDB915B11AAC1589/'.
+[2017.09.23-23.53.25:406][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.23-23.53.26:325][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.23-23.53.26:372][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.23-23.53.26:418][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.23-23.53.26:463][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.23-23.53.26:525][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.23-23.53.26:576][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.23-23.53.26:622][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.23-23.53.26:673][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.23-23.53.26:716][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.23-23.53.26:773][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.23-23.53.26:825][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.23-23.53.26:874][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.23-23.53.26:920][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.23-23.53.26:969][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.23-23.53.27:014][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.23-23.53.27:108][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.23-23.53.27:108][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.23-23.53.27:146][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.23-23.53.27:230][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.23-23.53.27:260][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.23-23.53.27:308][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.23-23.53.27:358][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.23-23.53.27:407][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.23-23.53.27:457][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.23-23.53.27:457][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.23-23.53.27:908][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.23-23.53.28:058][  0]LogDerivedDataCache: Loaded boot cache 0.12s 92MB C:/Users/jponzio/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.23-23.53.28:058][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jponzio/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.23-23.53.28:058][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/UnrealEngine/Projects/Quest_v4.17/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.23-23.53.28:058][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.23-23.53.28:058][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/UnrealEngine/Projects/Quest_v4.17/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.23-23.53.28:058][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.23-23.53.28:086][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.23-23.53.28:098][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jponzio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.23-23.53.28:114][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.23-23.53.28:114][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.23-23.53.28:115][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.23-23.53.28:115][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.23-23.53.28:406][  0]LogAssetRegistry: FAssetRegistry took 0.0237 seconds to start up
+[2017.09.23-23.53.28:597][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.23-23.53.28:600][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.23-23.53.29:015][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.23-23.53.29:052][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.23-23.53.29:052][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.23-23.53.29:052][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.23-23.53.29:052][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.23-23.53.29:052][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.23-23.53.29:432][  0]LogNetVersion: Quest , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2894832492)
+[2017.09.23-23.53.29:710][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.071451 seconds
+[2017.09.23-23.53.29:717][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.23-23.53.29:717][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.09.23-23.53.29:717][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.23-23.53.29:770][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.23-23.53.32:232][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.23-23.53.32:265][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.23-23.53.32:847][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.23-23.53.33:221][  0]SourceControl: Source control is disabled
+[2017.09.23-23.53.33:221][  0]SourceControl: Source control is disabled
+[2017.09.23-23.53.33:262][  0]SourceControl: Source control is disabled
+[2017.09.23-23.53.33:304][  0]SourceControl: Source control is disabled
+[2017.09.23-23.53.33:827][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.23-23.53.34:059][  0]LogOcInput: OculusInput pre-init called
+[2017.09.23-23.53.34:300][  0]LogEngine: Initializing Engine...
+[2017.09.23-23.53.34:302][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.23-23.53.34:642][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.23-23.53.34:642][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.23-23.53.34:771][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.23-23.53.34:780][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.23-23.53.34:788][  0]LogInit: FAudioDevice initialized.
+[2017.09.23-23.53.34:914][  0]LogDerivedDataCache: Saved boot cache 0.13s 92MB C:/Users/jponzio/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.23-23.53.34:929][  0]LogInit: Texture streaming: Enabled
+[2017.09.23-23.53.35:040][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.23-23.53.35:236][  0]LogInit: Transaction tracking system initialized
+[2017.09.23-23.53.35:536][  0]BlueprintLog: New page: Editor Load
+[2017.09.23-23.53.36:457][  0]LocalizationService: Localization service is disabled
+[2017.09.23-23.53.37:549][  0]LogConsoleResponse: Display: 
+[2017.09.23-23.53.37:776][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.23-23.53.37:776][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.23-23.53.37:776][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.23-23.53.38:822][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealEngine/Projects/Quest_v4.17/Content/' took 0.07s
+[2017.09.23-23.53.38:865][  0]SourceControl: Source control is disabled
+[2017.09.23-23.53.38:865][  0]Cmd: MAP LOAD FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.23-23.53.38:866][  0]LightingResults: New page: Lighting Build
+[2017.09.23-23.53.38:909][  0]MapCheck: New page: Map Check
+[2017.09.23-23.53.38:909][  0]LightingResults: New page: Lighting Build
+[2017.09.23-23.53.41:346][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_PatrolTypes.Enum_PatrolTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.53.41:361][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_UpdateHealth.Enum_UpdateHealth' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.53.41:362][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_InventoryItemType.Enum_InventoryItemType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.53.41:378][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_ControlState.Enum_ControlState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.53.41:386][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_AIState.Enum_AIState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.53.41:399][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_Role.Enum_Role' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.53.41:628][  0]LogBlueprint: Warning: [Compiler Juno_AnimBlueprint] Node  Transform (Modify) Bone - Bone: Character1_Hips  uses potentially thread-unsafe call  Get Mesh . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.09.23-23.53.41:628][  0]LogBlueprint: Warning: [Compiler Juno_AnimBlueprint] Node  Transform (Modify) Bone - Bone: Character1_Hips  uses potentially thread-unsafe call  Get Mesh . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.09.23-23.53.41:629][  0]LogBlueprint: Warning: [Compiler Juno_AnimBlueprint] Node  Transform (Modify) Bone - Bone: Character1_Hips  uses potentially thread-unsafe call  Get Mesh . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.09.23-23.53.41:740][  0]LogBlueprint: Warning: [Compiler Juno_AnimBlueprint] [0019.08] Compile of Juno_AnimBlueprint successful, but with 3 Warning(s) [in 421 ms] (/Game/Animation/Juno_AnimBlueprint.Juno_AnimBlueprint)
+[2017.09.23-23.53.42:176][  0]LogBlueprint: Warning: [Compiler BTT_Patrol] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2017.09.23-23.53.42:184][  0]LogBlueprint: Warning: [Compiler BTT_Patrol] [0019.52] Compile of BTT_Patrol successful, but with 1 Warning(s) [in 15 ms] (/Game/AI/BTT_Patrol.BTT_Patrol)
+[2017.09.23-23.53.48:254][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_SpawnerTypes.Enum_SpawnerTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.53.49:230][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_AcquisitionType.Enum_AcquisitionType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.53.49:230][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_Standing.Enum_Standing' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.53.49:231][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_Faction.Enum_Faction' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.53.49:327][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_MarkerType.Enum_MarkerType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.53.49:358][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:358][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (JournalEnter)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:358][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:358][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (JournalExit)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:358][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:358][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (JournalEnter_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:358][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:358][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (JournalExit_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:358][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (JournalEnter)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:358][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (JournalExit)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:358][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (JournalEnter_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:358][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (JournalExit_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:358][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (JournalEnter)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:359][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (JournalExit)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:359][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (JournalEnter_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.49:359][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (JournalExit_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2017.09.23-23.53.50:590][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_DungeonDoorType.Enum_DungeonDoorType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.53.50:754][  0]LogAIModule: Creating AISystem for world Test
+[2017.09.23-23.53.50:771][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.23-23.53.50:836][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.23-23.53.50:985][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 148.471ms to complete.
+[2017.09.23-23.53.50:985][  0]LogFileHelpers: Loading map 'Test' took 12.120
+[2017.09.23-23.53.51:399][  0]LogCollectionManager: Loaded 13 collections in 0.072607 seconds
+[2017.09.23-23.53.51:524][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Collections/' took 0.01s
+[2017.09.23-23.53.51:524][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Developers/jponzio/Collections/' took 0.00s
+[2017.09.23-23.53.51:524][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Collections/' took 0.01s
+[2017.09.23-23.53.51:524][  0]LogCollectionManager: Rebuilt the GUID cache for 13 collections in 0.000011 seconds
+[2017.09.23-23.53.51:524][  0]LogCollectionManager: Rebuilt the hierarchy cache for 13 collections in 0.000007 seconds
+[2017.09.23-23.53.51:535][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2396 classes and 507 folders.
+[2017.09.23-23.53.51:602][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.09.23-23.53.51:666][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.09.23-23.53.51:671][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.23-23.53.51:673][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.23-23.53.51:683][  0]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.23-23.53.51:787][  0]LogRenderer: Reallocating scene render targets to support 1196x740 Format 10 NumSamples 1 (Frame:1).
+[2017.09.23-23.53.51:988][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.09.23-23.53.51:988][  0]LogLoad: (Engine Initialization) Total time: 29.33 seconds
+[2017.09.23-23.53.51:988][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.23-23.53.51:988][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.09.23-23.53.51:989][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.09.23-23.53.52:032][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.23-23.53.52:078][  0]LogSlate: Took 0.002637 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.23-23.53.52:146][  2]LogAssetRegistry: Asset discovery search completed in 23.7616 seconds
+[2017.09.23-23.53.52:151][  2]LogCollectionManager: Rebuilt the object cache for 13 collections in 0.000221 seconds (found 810 objects)
+[2017.09.23-23.53.52:151][  2]LogCollectionManager: Fixed up redirectors for 13 collections in 0.000486 seconds (updated 0 objects)
+[2017.09.23-23.53.53:033][ 98]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.23-23.56.50:136][860]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.23-23.57.21:270][154]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.23-23.57.21:645][154]LogBlueprint: Warning: [Compiler QuestDialogueLibrary] Input pin  Spawn Even if Colliding  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2017.09.23-23.57.21:647][154]LogBlueprint: Warning: [Compiler QuestDialogueLibrary] [0239.00] Compile of QuestDialogueLibrary successful, but with 1 Warning(s) [in 8 ms] (/Game/Blueprints/Game/QuestDialogueLibrary.QuestDialogueLibrary)
+[2017.09.23-23.57.21:685][154]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_CharacterState.Enum_CharacterState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.57.21:696][154]LogClass: Warning: Enum '/Game/Blueprints/GSR/EWorldCells.EWorldCells' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.57.21:708][154]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_ChestTypes.Enum_ChestTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.57.21:720][154]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_KeyType.Enum_KeyType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.57.21:723][154]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_MayanDoorTypes.Enum_MayanDoorTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.57.21:725][154]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_MovingLiquidType.Enum_MovingLiquidType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.57.21:728][154]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_PickupTypes.Enum_PickupTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.57.21:730][154]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_PotionAffectTypes.Enum_PotionAffectTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.57.21:737][154]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_PotionAmountTypes.Enum_PotionAmountTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.09.23-23.57.21:850][154]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2017.09.23-23.57.22:828][154]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.23-23.57.22:986][155]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.23-23.57.43:852][510]LogEditorViewport: Clicking on Actor (LMB): QuestDungeonDoor_C (QuestDungeonDoor)
+[2017.09.23-23.57.52:639][515]BlueprintLog: New page: Compile Test
+[2017.09.23-23.57.52:892][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.23-23.57.53:149][515]LogSavePackage: Save=208.34ms
+[2017.09.23-23.57.53:150][515]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/TestE209443E4A4A2FB5ADAF098EDFFCB336.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap'
+[2017.09.23-23.57.53:152][515]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap
+[2017.09.23-23.57.53:215][515]LogFileHelpers: Saving map 'Test' took 0.482
+[2017.09.23-23.57.54:336][645]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.23-23.57.54:675][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.57.54:675][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.23-23.57.54:676][645]PIE: New page: PIE session: Test (Sep 23, 2017, 9:57:54 AM)
+[2017.09.23-23.57.54:829][645]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.09.23-23.57.54:836][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007290s)
+[2017.09.23-23.57.54:837][645]LogAIModule: Creating AISystem for world Test
+[2017.09.23-23.57.54:837][645]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2017.09.23-23.57.54:837][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.008205s)
+[2017.09.23-23.57.54:872][645]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.23-23.57.54:881][645]LogInit: FAudioDevice initialized.
+[2017.09.23-23.57.54:921][645]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.23-23.57.54:926][645]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.09.23-16.57.54
+[2017.09.23-23.57.54:938][645]LogWorld: Bringing up level for play took: 0.015101
+[2017.09.23-23.57.54:980][645]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.09.23-23.57.54:980][645]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.23-23.57.54:980][645]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.23-23.57.54:980][645]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.23-23.57.54:986][645]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.23-23.57.54:986][645]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.049
+[2017.09.23-23.57.54:986][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.58.03:560][667]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.58.03:608][667]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.58.39:940][ 19]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.23-23.58.39:961][ 19]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.58.39:962][ 19]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.23-23.58.39:973][ 19]LogPlayLevel: [PlayLevel] Compiling Test before play...
+[2017.09.23-23.58.40:190][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.23-23.58.40:235][ 19]LogPlayLevel: [PlayLevel]   Compiling Test as a dependent...
+[2017.09.23-23.58.40:446][ 19]LogSavePackage: Save=220.26ms
+[2017.09.23-23.58.40:446][ 19]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Test2FC3D37F411AF06CF91C938F4C80F842.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap'
+[2017.09.23-23.58.40:447][ 19]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap
+[2017.09.23-23.58.40:487][ 19]LogFileHelpers: Saving map 'Test' took 0.467
+[2017.09.23-23.58.40:524][ 19]LogPlayLevel: PlayLevel: Blueprint regeneration took 562 ms (2 blueprints)
+[2017.09.23-23.58.40:524][ 19]PIE: New page: PIE session: Test (Sep 23, 2017, 9:58:40 AM)
+[2017.09.23-23.58.40:525][ 19]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.09.23-23.58.40:533][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008164s)
+[2017.09.23-23.58.40:534][ 19]LogAIModule: Creating AISystem for world Test
+[2017.09.23-23.58.40:534][ 19]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2017.09.23-23.58.40:535][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.009660s)
+[2017.09.23-23.58.40:558][ 19]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.23-23.58.40:564][ 19]LogInit: FAudioDevice initialized.
+[2017.09.23-23.58.40:592][ 19]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.23-23.58.40:595][ 19]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.09.23-16.58.40
+[2017.09.23-23.58.40:595][ 19]LogWorld: Bringing up level for play took: 0.001949
+[2017.09.23-23.58.40:596][ 19]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.23-23.58.40:596][ 19]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.23-23.58.40:596][ 19]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.23-23.58.40:599][ 19]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.23-23.58.40:599][ 19]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.336
+[2017.09.23-23.58.40:599][ 19]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.58.47:824][882]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.58.47:870][882]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.58.57:868][ 30]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.23-23.58.57:893][ 30]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.58.57:893][ 30]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.23-23.58.57:902][ 30]LogPlayLevel: [PlayLevel] Compiling Test before play...
+[2017.09.23-23.58.58:076][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.23-23.58.58:126][ 30]LogPlayLevel: [PlayLevel]   Compiling Test as a dependent...
+[2017.09.23-23.58.58:361][ 30]LogSavePackage: Save=245.28ms
+[2017.09.23-23.58.58:361][ 30]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Test1D0A5BC04D71AF513C5CE4B10C3E938D.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap'
+[2017.09.23-23.58.58:363][ 30]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap
+[2017.09.23-23.58.58:400][ 30]LogFileHelpers: Saving map 'Test' took 0.449
+[2017.09.23-23.58.58:433][ 30]LogPlayLevel: PlayLevel: Blueprint regeneration took 539 ms (2 blueprints)
+[2017.09.23-23.58.58:433][ 30]PIE: New page: PIE session: Test (Sep 23, 2017, 9:58:58 AM)
+[2017.09.23-23.58.58:434][ 30]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.09.23-23.58.58:439][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005173s)
+[2017.09.23-23.58.58:440][ 30]LogAIModule: Creating AISystem for world Test
+[2017.09.23-23.58.58:440][ 30]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2017.09.23-23.58.58:440][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.006110s)
+[2017.09.23-23.58.58:469][ 30]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.23-23.58.58:475][ 30]LogInit: FAudioDevice initialized.
+[2017.09.23-23.58.58:506][ 30]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.23-23.58.58:509][ 30]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.09.23-16.58.58
+[2017.09.23-23.58.58:509][ 30]LogWorld: Bringing up level for play took: 0.002245
+[2017.09.23-23.58.58:510][ 30]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.23-23.58.58:510][ 30]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.23-23.58.58:510][ 30]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.23-23.58.58:513][ 30]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.23-23.58.58:513][ 30]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 1.58
+[2017.09.23-23.58.58:514][ 30]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.58.59:005][ 87]LogBlueprintUserMessages: [Test_C_1] Hello
+[2017.09.23-23.59.01:130][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.59.01:172][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.59.05:760][775]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.09.23-23.59.09:791][169]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.23-23.59.09:816][169]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.59.09:816][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.23-23.59.09:816][169]PIE: New page: PIE session: Test (Sep 23, 2017, 9:59:09 AM)
+[2017.09.23-23.59.09:817][169]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.09.23-23.59.09:822][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005506s)
+[2017.09.23-23.59.09:823][169]LogAIModule: Creating AISystem for world Test
+[2017.09.23-23.59.09:823][169]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2017.09.23-23.59.09:823][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.006467s)
+[2017.09.23-23.59.09:849][169]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.23-23.59.09:856][169]LogInit: FAudioDevice initialized.
+[2017.09.23-23.59.09:884][169]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.23-23.59.09:887][169]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.09.23-16.59.09
+[2017.09.23-23.59.09:888][169]LogWorld: Bringing up level for play took: 0.002954
+[2017.09.23-23.59.09:889][169]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.23-23.59.09:889][169]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.23-23.59.09:889][169]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.23-23.59.09:893][169]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.23-23.59.09:894][169]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.96
+[2017.09.23-23.59.09:894][169]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.59.12:599][491]LogBlueprintUserMessages: [Test_C_1] Hello
+[2017.09.23-23.59.15:969][895]LogBlueprintUserMessages: [Test_C_1] Hello
+[2017.09.23-23.59.20:381][424]LogBlueprintUserMessages: [Test_C_1] Hello
+[2017.09.23-23.59.21:399][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.23-23.59.21:446][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2017.09.24-00.05.39:118][180]LogRenderer: Reallocating scene render targets to support 1196x768 Format 10 NumSamples 1 (Frame:1079).
+[2017.09.24-00.07.19:845][496]LogEditorTransaction: Undo Create Pin Link
+[2017.09.24-00.07.20:714][566]LogEditorTransaction: Undo Add In Parameter
+[2017.09.24-00.07.24:751][ 34]LogEditorTransaction: Undo Add In Parameter
+[2017.09.24-00.07.26:336][188]BlueprintLog: New page: Compile BP_library
+[2017.09.24-00.07.26:340][188]LogBlueprint: Error: [Compiler BP_library] This blueprint (self) is not a QuestMarker_C, therefore ' Target ' must have a connection.
+[2017.09.24-00.07.26:340][188]LogBlueprint: Error: [Compiler BP_library] This blueprint (self) is not a QuestMarker_C, therefore ' Target ' must have a connection.
+[2017.09.24-00.07.26:340][188]LogBlueprint: Error: [Compiler BP_library] The type of  Object  is undetermined.  Connect something to  Cast To QuestCharacter_Juno  to imply a specific type.
+[2017.09.24-00.07.26:341][188]LogBlueprint: Error: [Compiler BP_library] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2017.09.24-00.07.26:419][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2017.09.24-00.07.26:429][188]LogSavePackage: Save=8.97ms
+[2017.09.24-00.07.26:429][188]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/BP_library611EED8C4D4B5F76E6B2509EBCEB5D5A.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset'
+[2017.09.24-00.07.26:430][188]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset
+[2017.09.24-00.07.26:434][188]LogBlueprint: Warning: [Compiler BP_library] [0843.81] Compile of BP_library failed. 4 Fatal Issue(s) 0 Warning(s) [in 98 ms] (/Game/Blueprints/Game/BP_library.BP_library)
+[2017.09.24-00.07.31:218][752]LogEditorTransaction: Undo Add In Parameter
+[2017.09.24-00.07.43:121][240]LogSlate: Took 0.001878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.09.24-00.09.02:650][278]BlueprintLog: New page: Compile BP_library
+[2017.09.24-00.09.02:731][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2017.09.24-00.09.02:758][278]LogSavePackage: Save=17.51ms
+[2017.09.24-00.09.02:758][278]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/BP_library47438F584D3AC865D704799D43F7A581.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset'
+[2017.09.24-00.09.02:759][278]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset
+[2017.09.24-00.10.03:384][509]BlueprintLog: New page: Compile BP_library
+[2017.09.24-00.10.03:479][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2017.09.24-00.10.03:515][509]LogSavePackage: Save=28.07ms
+[2017.09.24-00.10.03:515][509]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/BP_libraryA52F8FE047CBF10214135F8068778ACF.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset'
+[2017.09.24-00.10.03:517][509]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset
+[2017.09.24-00.10.56:630][288]BlueprintLog: New page: Compile Test
+[2017.09.24-00.10.56:832][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.24-00.10.57:042][288]LogSavePackage: Save=179.83ms
+[2017.09.24-00.10.57:042][288]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/TestBE903F73400D5535A99620B50386104A.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap'
+[2017.09.24-00.10.57:043][288]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap
+[2017.09.24-00.10.57:074][288]LogFileHelpers: Saving map 'Test' took 0.356
+[2017.09.24-21.29.29:256][ 55]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.027
+[2017.09.24-21.29.29:258][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Game/BP_library] ([1] browsable assets)...
+[2017.09.24-21.29.29:258][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/BP_library]
+[2017.09.24-21.29.29:258][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Blueprints/Game/BP_library_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.09.24-21.29.29:330][ 55]LogSavePackage: Save=13.27ms
+[2017.09.24-21.29.29:330][ 55]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/BP_library_Auto197E071654470EEE656523E9783D8CE7B.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Blueprints/Game/BP_library_Auto1.uasset'
+[2017.09.24-21.29.29:330][ 55]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Blueprints/Game/BP_library_Auto1.uasset
+[2017.09.24-21.29.29:330][ 55]LogFileHelpers: Auto-saving content packages took 0.074
+[2017.09.24-21.50.52:974][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Maps/Test_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.09.24-21.50.53:349][852]LogFileHelpers: Saving map 'Test' took 0.256
+[2017.09.24-21.51.21:931][852]LogSlate: Took 0.001579 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.24-21.51.21:943][852]LogSavePackage: Save=28899.76ms
+[2017.09.24-21.51.21:943][852]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Test_Auto2C4938874495F8BC2D10EE28A373CC5DE.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Maps/Test_Auto2.umap'
+[2017.09.24-21.51.21:944][852]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Maps/Test_Auto2.umap
+[2017.09.24-21.51.21:958][852]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 29.024
+[2017.09.24-21.51.21:958][852]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 29.024
+[2017.09.24-21.51.21:961][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Game/BP_library] ([1] browsable assets)...
+[2017.09.24-21.51.21:961][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/BP_library]
+[2017.09.24-21.51.21:961][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Blueprints/Game/BP_library_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.09.24-21.51.21:981][852]LogSavePackage: Save=16.19ms
+[2017.09.24-21.51.21:981][852]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/BP_library_Auto202C5ABD14B464AC3BF37469E764B13C2.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Blueprints/Game/BP_library_Auto2.uasset'
+[2017.09.24-21.51.21:982][852]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Blueprints/Game/BP_library_Auto2.uasset
+[2017.09.24-21.51.21:982][852]LogFileHelpers: Auto-saving content packages took 0.022
+[2017.09.24-21.53.11:449][781]BlueprintLog: New page: Compile BP_library
+[2017.09.24-21.53.11:555][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2017.09.24-21.53.11:576][781]LogSavePackage: Save=16.80ms
+[2017.09.24-21.53.11:576][781]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/BP_library300526074BA0DA6989F7DE9C40EFFEE0.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset'
+[2017.09.24-21.53.11:577][781]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset
+[2017.09.24-21.53.11:705][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.24-21.53.11:944][781]LogSavePackage: Save=210.17ms
+[2017.09.24-21.53.11:944][781]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Test163B37A24D9C09416A2DDF8313BB619C.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap'
+[2017.09.24-21.53.11:945][781]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap
+[2017.09.24-21.53.11:980][781]LogFileHelpers: Saving map 'Test' took 0.401
+[2017.09.24-21.53.57:063][143]BlueprintLog: New page: Compile BP_library
+[2017.09.24-21.53.57:163][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2017.09.24-21.53.57:191][143]LogSavePackage: Save=22.17ms
+[2017.09.24-21.53.57:191][143]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/BP_library261C04464C9AE02589BB8C8C098ED1EA.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset'
+[2017.09.24-21.53.57:192][143]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset
+[2017.09.24-22.01.24:289][847]LogEditorViewport: Clicking on Actor (LMB): QuestMarker_C (QuestMarker)
+[2017.09.24-22.01.25:051][928]LogEditorViewport: Clicking on Actor (CTRL LMB): QuestMarker_C (QuestMarker2)
+[2017.09.24-22.01.40:241][690]BlueprintLog: New page: Compile Test
+[2017.09.24-22.01.40:471][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.24-22.01.40:712][690]LogSavePackage: Save=213.91ms
+[2017.09.24-22.01.40:712][690]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Test2F245AF744C94799C165FAA8EDA171EA.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap'
+[2017.09.24-22.01.40:714][690]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap
+[2017.09.24-22.01.40:745][690]LogFileHelpers: Saving map 'Test' took 0.404
+[2017.09.24-22.01.44:161][ 94]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2017.09.24-22.02.16:472][877]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2017.09.24-22.02.54:822][267]BlueprintLog: New page: Compile BP_library
+[2017.09.24-22.02.54:940][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2017.09.24-22.02.54:965][267]LogSavePackage: Save=20.56ms
+[2017.09.24-22.02.54:965][267]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/BP_libraryEF388D8449CBDEE65C76B0989BD75FF5.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset'
+[2017.09.24-22.02.54:966][267]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/BP_library.uasset
+[2017.09.24-22.02.55:087][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.24-22.02.55:295][267]LogSavePackage: Save=185.60ms
+[2017.09.24-22.02.55:295][267]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/TestB4B79E0A4DFD807E633C688A0954F8B3.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap'
+[2017.09.24-22.02.55:296][267]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Maps/Test.umap
+[2017.09.24-22.02.55:333][267]LogFileHelpers: Saving map 'Test' took 0.364
+[2017.09.24-22.26.53:335][723]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.24-22.26.53:387][723]LightingResults: New page: Lighting Build
+[2017.09.24-22.26.53:388][723]LoadErrors: New page: Loading map: Template_Default.umap
+[2017.09.24-22.26.53:446][723]MapCheck: New page: Map Check
+[2017.09.24-22.26.53:446][723]LightingResults: New page: Lighting Build
+[2017.09.24-22.26.53:492][723]LogAIModule: Creating AISystem for world Untitled_1
+[2017.09.24-22.26.53:564][723]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.24-22.26.53:611][723]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.24-22.26.53:735][723]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 123.426ms to complete.
+[2017.09.24-22.26.53:735][723]LogFileHelpers: Loading map 'Template_Default' took 0.402
+[2017.09.24-22.27.19:672][555]LogEditorViewport: Clicking on Actor (LMB): QuestAISpawner_C (QuestAISpawner)
+[2017.09.24-22.28.37:678][336]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.09.24-22.28.39:690][536]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.09.24-22.28.53:454][ 94]LogEditorViewport: Clicking on Actor (LMB): QuestAISpawner_C (QuestAISpawner)
+[2017.09.24-22.31.16:495][713]BlueprintLog: New page: Compile QuestDialogueLibrary
+[2017.09.24-22.31.16:513][713]LogBlueprint: Warning: [Compiler QuestDialogueLibrary] Input pin  Spawn Even if Colliding  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2017.09.24-22.31.18:835][713]LogBlueprint: Warning: [Compiler QuestDialogueLibrary] [1475.11] Compile of QuestDialogueLibrary successful, but with 1 Warning(s) [in 2,340 ms] (/Game/Blueprints/Game/QuestDialogueLibrary.QuestDialogueLibrary)
+[2017.09.24-22.31.21:348][957]BlueprintLog: New page: Compile QuestDialogueLibrary
+[2017.09.24-22.31.21:367][957]LogBlueprint: Warning: [Compiler QuestDialogueLibrary] Input pin  Spawn Even if Colliding  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2017.09.24-22.31.23:527][957]LogBlueprint: Warning: [Compiler QuestDialogueLibrary] [1479.80] Compile of QuestDialogueLibrary successful, but with 1 Warning(s) [in 2,178 ms] (/Game/Blueprints/Game/QuestDialogueLibrary.QuestDialogueLibrary)
+[2017.09.24-22.31.38:048][596]BlueprintLog: New page: Compile QuestDialogueLibrary
+[2017.09.24-22.31.38:142][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/QuestDialogueLibrary" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/QuestDialogueLibrary.uasset" SILENT=true
+[2017.09.24-22.31.38:188][596]LogSavePackage: Save=37.99ms
+[2017.09.24-22.31.38:188][596]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/QuestDialogueLibrary99D4317B4F082EA795BCCC9B7BFEED40.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/QuestDialogueLibrary.uasset'
+[2017.09.24-22.31.38:189][596]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Blueprints/Game/QuestDialogueLibrary.uasset
+[2017.09.24-22.36.04:219][248]BlueprintLog: New page: Compile Untitled
+[2017.09.24-22.36.08:112][452]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.24-22.36.08:143][452]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.36.08:143][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.24-22.36.08:143][452]PIE: New page: PIE session: Untitled_1 (Sep 24, 2017, 8:36:08 AM)
+[2017.09.24-22.36.08:144][452]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.09.24-22.36.08:149][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005441s)
+[2017.09.24-22.36.08:150][452]LogAIModule: Creating AISystem for world Untitled_1
+[2017.09.24-22.36.08:150][452]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2017.09.24-22.36.08:150][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006413s)
+[2017.09.24-22.36.08:179][452]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.24-22.36.08:186][452]LogInit: FAudioDevice initialized.
+[2017.09.24-22.36.08:213][452]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.24-22.36.08:215][452]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.09.24-15.36.08
+[2017.09.24-22.36.08:215][452]LogWorld: Bringing up level for play took: 0.001169
+[2017.09.24-22.36.08:216][452]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.24-22.36.08:216][452]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.24-22.36.08:216][452]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.24-22.36.08:219][452]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.24-22.36.08:219][452]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.192
+[2017.09.24-22.36.08:219][452]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.36.09:292][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.36.09:332][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.36.54:262][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.09.24-22.36.56:820][287]LogSavePackage: Save=2555.92ms
+[2017.09.24-22.36.56:820][287]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Untitled_1_Auto3A0CB6B4D4605C4B8E077E98585679E41.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2017.09.24-22.36.56:821][287]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_1_Auto3.umap
+[2017.09.24-22.36.56:827][287]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 2.605
+[2017.09.24-22.36.56:827][287]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.605
+[2017.09.24-22.38.29:249][844]BlueprintLog: New page: Compile Untitled
+[2017.09.24-22.38.32:880][ 44]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.24-22.38.32:913][ 44]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.38.32:913][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.24-22.38.32:913][ 44]PIE: New page: PIE session: Untitled_1 (Sep 24, 2017, 8:38:32 AM)
+[2017.09.24-22.38.32:914][ 44]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.09.24-22.38.32:916][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002432s)
+[2017.09.24-22.38.32:917][ 44]LogAIModule: Creating AISystem for world Untitled_1
+[2017.09.24-22.38.32:917][ 44]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2017.09.24-22.38.32:917][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003320s)
+[2017.09.24-22.38.32:950][ 44]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.24-22.38.32:957][ 44]LogInit: FAudioDevice initialized.
+[2017.09.24-22.38.32:989][ 44]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.24-22.38.32:990][ 44]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.09.24-15.38.32
+[2017.09.24-22.38.32:990][ 44]LogWorld: Bringing up level for play took: 0.001218
+[2017.09.24-22.38.32:991][ 44]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.24-22.38.32:991][ 44]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.24-22.38.32:991][ 44]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.24-22.38.32:994][ 44]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.24-22.38.32:994][ 44]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.96
+[2017.09.24-22.38.32:995][ 44]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.38.33:968][159]Cmd: LevelEditor.ToggleImmersive
+[2017.09.24-22.38.34:102][160]LogRenderer: Reallocating scene render targets to support 1352x864 Format 10 NumSamples 1 (Frame:117).
+[2017.09.24-22.38.34:159][161]LogRenderer: Reallocating scene render targets to support 1920x1200 Format 10 NumSamples 1 (Frame:119).
+[2017.09.24-22.38.48:702][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.38.48:778][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.39.30:011][740]BlueprintLog: New page: Compile Untitled
+[2017.09.24-22.39.32:850][887]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.24-22.39.32:880][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.39.32:880][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.24-22.39.32:880][887]PIE: New page: PIE session: Untitled_1 (Sep 24, 2017, 8:39:32 AM)
+[2017.09.24-22.39.32:880][887]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.09.24-22.39.32:883][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002668s)
+[2017.09.24-22.39.32:884][887]LogAIModule: Creating AISystem for world Untitled_1
+[2017.09.24-22.39.32:884][887]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2017.09.24-22.39.32:884][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003571s)
+[2017.09.24-22.39.32:916][887]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.24-22.39.32:924][887]LogInit: FAudioDevice initialized.
+[2017.09.24-22.39.32:950][887]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.24-22.39.32:952][887]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.09.24-15.39.32
+[2017.09.24-22.39.32:952][887]LogWorld: Bringing up level for play took: 0.001181
+[2017.09.24-22.39.32:953][887]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.24-22.39.32:953][887]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.24-22.39.32:953][887]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.24-22.39.32:956][887]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.24-22.39.32:956][887]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.919
+[2017.09.24-22.39.32:956][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.39.34:123][ 25]LogScript: Warning: Accessed None trying to read property DialogueSpeakerLocal
+	QuestDialogueLibrary_C /Game/Blueprints/Game/QuestDialogueLibrary.Default__QuestDialogueLibrary_C
+	Function /Game/Blueprints/Game/QuestDialogueLibrary.QuestDialogueLibrary_C:CreateDialogueBox:008E
+[2017.09.24-22.39.34:123][ 25]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DialogueSpeakerLocal from function: 'CreateDialogueBox' from node: SpawnActor Quest Dialogue Box in graph: CreateDialogueBox in object: QuestDialogueLibrary with description: Accessed None trying to read property DialogueSpeakerLocal
+[2017.09.24-22.39.34:123][ 25]LogScript: Warning: Accessed None trying to read property DialogueSpeakerLocal
+	QuestDialogueLibrary_C /Game/Blueprints/Game/QuestDialogueLibrary.Default__QuestDialogueLibrary_C
+	Function /Game/Blueprints/Game/QuestDialogueLibrary.QuestDialogueLibrary_C:CreateDialogueBox:018A
+[2017.09.24-22.39.34:123][ 25]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property DialogueSpeakerLocal from function: 'CreateDialogueBox' from node: SpawnActor Quest Dialogue Box in graph: CreateDialogueBox in object: QuestDialogueLibrary with description: Accessed None trying to read property DialogueSpeakerLocal
+[2017.09.24-22.39.38:327][528]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.39.38:371][528]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.39.39:081][565]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.24-22.39.39:110][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.39.39:110][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.24-22.39.39:110][565]PIE: New page: PIE session: Untitled_1 (Sep 24, 2017, 8:39:39 AM)
+[2017.09.24-22.39.39:111][565]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.09.24-22.39.39:113][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002437s)
+[2017.09.24-22.39.39:114][565]LogAIModule: Creating AISystem for world Untitled_1
+[2017.09.24-22.39.39:114][565]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2017.09.24-22.39.39:114][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003308s)
+[2017.09.24-22.39.39:154][565]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.24-22.39.39:162][565]LogInit: FAudioDevice initialized.
+[2017.09.24-22.39.39:192][565]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.24-22.39.39:193][565]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.09.24-15.39.39
+[2017.09.24-22.39.39:193][565]LogWorld: Bringing up level for play took: 0.001191
+[2017.09.24-22.39.39:194][565]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.24-22.39.39:194][565]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.24-22.39.39:194][565]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.24-22.39.39:197][565]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.24-22.39.39:197][565]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.84
+[2017.09.24-22.39.39:198][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.39.48:451][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.39.48:488][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.40.30:596][497]BlueprintLog: New page: Compile Untitled
+[2017.09.24-22.40.33:549][631]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.24-22.40.33:582][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.40.33:582][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.24-22.40.33:582][631]PIE: New page: PIE session: Untitled_1 (Sep 24, 2017, 8:40:33 AM)
+[2017.09.24-22.40.33:583][631]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.09.24-22.40.33:586][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002709s)
+[2017.09.24-22.40.33:586][631]LogAIModule: Creating AISystem for world Untitled_1
+[2017.09.24-22.40.33:586][631]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2017.09.24-22.40.33:587][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003673s)
+[2017.09.24-22.40.33:620][631]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.24-22.40.33:627][631]LogInit: FAudioDevice initialized.
+[2017.09.24-22.40.33:654][631]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.24-22.40.33:656][631]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.09.24-15.40.33
+[2017.09.24-22.40.33:656][631]LogWorld: Bringing up level for play took: 0.001212
+[2017.09.24-22.40.33:657][631]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.24-22.40.33:657][631]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.24-22.40.33:657][631]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.24-22.40.33:662][631]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.24-22.40.33:663][631]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.377
+[2017.09.24-22.40.33:663][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.40.34:646][747]Cmd: LevelEditor.ToggleImmersive
+[2017.09.24-22.40.40:150][388]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.40.40:248][388]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.40.49:301][421]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.24-22.40.49:330][421]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.40.49:330][421]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.24-22.40.49:335][421]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2017.09.24-22.40.50:797][421]LogPlayLevel: PlayLevel: Blueprint regeneration took 1466 ms (1 blueprints)
+[2017.09.24-22.40.50:797][421]PIE: New page: PIE session: Untitled_1 (Sep 24, 2017, 8:40:50 AM)
+[2017.09.24-22.40.50:798][421]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.09.24-22.40.50:802][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003682s)
+[2017.09.24-22.40.50:802][421]LogAIModule: Creating AISystem for world Untitled_1
+[2017.09.24-22.40.50:803][421]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2017.09.24-22.40.50:803][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004849s)
+[2017.09.24-22.40.50:838][421]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.24-22.40.50:844][421]LogInit: FAudioDevice initialized.
+[2017.09.24-22.40.50:873][421]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.24-22.40.50:875][421]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.09.24-15.40.50
+[2017.09.24-22.40.50:875][421]LogWorld: Bringing up level for play took: 0.001426
+[2017.09.24-22.40.50:876][421]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.24-22.40.50:876][421]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.24-22.40.50:876][421]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.24-22.40.50:881][421]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.24-22.40.50:882][421]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.84
+[2017.09.24-22.40.50:882][421]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.40.56:945][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.40.56:993][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.24-22.42.07:493][372]BlueprintLog: New page: Compile Untitled
+[2017.09.24-22.47.42:348][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.09.24-22.56.29:591][188]LogSavePackage: Save=527215.50ms
+[2017.09.24-22.56.29:591][188]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Untitled_1_Auto43175EDC24E6D9E6026BFAD98C339155C.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_1_Auto4.umap'
+[2017.09.24-22.56.29:592][188]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_1_Auto4.umap
+[2017.09.24-22.56.29:595][188]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 527.269
+[2017.09.24-22.56.29:595][188]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 527.269
+[2017.09.24-22.56.49:519][201]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.09.24-22.57.04:881][990]Cmd: TRANSACTION UNDO
+[2017.09.24-22.57.04:881][990]LogEditorTransaction: Undo Move Actors
+[2017.09.24-22.57.05:300][ 23]LogEditorViewport: Clicking Background
+[2017.09.24-22.57.05:787][ 74]LogEditorViewport: Clicking on Actor (LMB): QuestDungeonDoor_C (QuestDungeonDoor)
+[2017.09.24-22.57.41:710][266]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.09.24-23.00.13:664][501]LogActorFactory: Actor Factory created Dungeon_Lower_Wall01
+[2017.09.24-23.00.14:057][533]LogActorFactory: Actor Factory created Dungeon_Lower_Wall01
+[2017.09.24-23.00.30:484][134]LogStaticMesh: Building static mesh Dungeon_Lower_Wall_Corner02...
+[2017.09.24-23.00.30:516][134]LogStaticMesh: Built static mesh [0.03s] /Game/Environment/Dungeon/Meshes/Dungeon_Lower_Wall_Corner02.Dungeon_Lower_Wall_Corner02
+[2017.09.24-23.00.30:678][147]LogActorFactory: Actor Factory created Dungeon_Lower_Wall_Corner02
+[2017.09.24-23.00.31:090][186]LogActorFactory: Actor Factory created Dungeon_Lower_Wall_Corner02
+[2017.09.24-23.01.05:398][741]LogActorFactory: Actor Factory created Dungeon_Wall03c
+[2017.09.24-23.01.05:686][768]LogActorFactory: Actor Factory created Dungeon_Wall03c
+[2017.09.24-23.01.20:604][304]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Dungeon_Lower_Wall_Corner02)
+[2017.09.24-23.01.21:613][406]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Dungeon_Lower_Wall01)
+[2017.09.24-23.01.22:286][480]Cmd: DELETE
+[2017.09.24-23.01.22:286][480]Cmd: ACTOR DELETE
+[2017.09.24-23.01.22:287][480]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.09.24-23.01.22:288][480]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.09.24-23.01.22:288][480]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.09.24-23.01.22:320][480]LogEditorActor: Deleted 3 Actors (0.034 secs)
+[2017.09.24-23.06.45:287][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.09.24-23.08.29:777][773]LogSavePackage: Save=104483.95ms
+[2017.09.24-23.08.29:777][773]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Untitled_1_Auto50CA28EC14F0CC12BA74343BB1EED0403.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_1_Auto5.umap'
+[2017.09.24-23.08.29:778][773]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_1_Auto5.umap
+[2017.09.24-23.08.29:782][773]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 104.534
+[2017.09.24-23.08.29:782][773]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 104.534
+[2017.09.24-23.10.42:600][571]LogEditorViewport: Clicking on Actor (LMB): QuestDungeonDoor_C (QuestDungeonDoor)
+[2017.09.24-23.10.43:163][629]Cmd: DELETE
+[2017.09.24-23.10.43:163][629]Cmd: ACTOR DELETE
+[2017.09.24-23.10.43:163][629]LogEditorActor: Deleted Actor: QuestDungeonDoor_C
+[2017.09.24-23.10.43:190][629]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2017.09.24-23.10.49:111][303]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.09.24-23.10.50:322][439]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.09.24-23.10.53:698][747]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.09.24-23.10.53:980][778]Cmd: SELECT NONE
+[2017.09.24-23.10.55:742][966]LogEditorViewport: Clicking on Actor (LMB): QuestAISpawner_C (QuestAISpawner)
+[2017.09.24-23.18.30:065][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.09.24-23.46.29:761][115]LogSavePackage: Save=420125.66ms
+[2017.09.24-23.46.29:761][115]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Untitled_1_Auto68BC44E04478CC381E5879C86F67BE93D.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_1_Auto6.umap'
+[2017.09.24-23.46.29:762][115]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_1_Auto6.umap
+[2017.09.24-23.46.29:765][115]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 1679.654
+[2017.09.24-23.46.29:765][115]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1679.654
+[2017.09.25-00.46.17:570][815]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.25-00.46.17:604][815]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.25-00.46.17:604][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.25-00.46.17:604][815]PIE: New page: PIE session: Untitled_1 (Sep 24, 2017, 10:46:17 AM)
+[2017.09.25-00.46.17:605][815]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.09.25-00.46.17:608][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003734s)
+[2017.09.25-00.46.17:609][815]LogAIModule: Creating AISystem for world Untitled_1
+[2017.09.25-00.46.17:609][815]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2017.09.25-00.46.17:610][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004930s)
+[2017.09.25-00.46.17:636][815]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.25-00.46.17:643][815]LogInit: FAudioDevice initialized.
+[2017.09.25-00.46.17:672][815]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.25-00.46.17:674][815]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.09.24-17.46.17
+[2017.09.25-00.46.17:674][815]LogWorld: Bringing up level for play took: 0.001390
+[2017.09.25-00.46.17:675][815]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-00.46.17:675][815]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-00.46.17:675][815]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-00.46.17:680][815]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-00.46.17:680][815]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.738
+[2017.09.25-00.46.17:681][815]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.25-00.46.18:737][939]Cmd: LevelEditor.ToggleImmersive
+[2017.09.25-00.46.33:840][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.25-00.46.33:917][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2017.09.25-01.36.35:308][ 21]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.25-01.36.35:329][ 21]LightingResults: New page: Lighting Build
+[2017.09.25-01.36.35:330][ 21]LoadErrors: New page: Loading map: Template_Default.umap
+[2017.09.25-01.36.35:396][ 21]MapCheck: New page: Map Check
+[2017.09.25-01.36.35:396][ 21]LightingResults: New page: Lighting Build
+[2017.09.25-01.36.35:437][ 21]LogAIModule: Creating AISystem for world Untitled_2
+[2017.09.25-01.36.35:534][ 21]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.25-01.36.35:574][ 21]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.25-01.36.35:695][ 21]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 121.076ms to complete.
+[2017.09.25-01.36.35:695][ 21]LogFileHelpers: Loading map 'Template_Default' took 0.388
+[2017.09.25-01.38.53:822][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.25-01.39.53:463][733]LogEditorViewport: Clicking on Actor (CTRL LMB): QuestDungeonPressurePlate_C (QuestDungeonPressurePlate)
+[2017.09.25-01.39.53:913][784]LogEditorViewport: Clicking on Actor (CTRL LMB): QuestDungeonPushableBlock_C (QuestDungeonPushableBlock)
+[2017.09.25-01.40.18:557][524]LogEditorViewport: Clicking on Actor (LMB): QuestDungeonPressurePlate_C (QuestDungeonPressurePlate)
+[2017.09.25-01.41.18:375][359]LogEditorViewport: Clicking on Actor (LMB): QuestDungeonPressurePlate_C (QuestDungeonPressurePlate2)
+[2017.09.25-01.45.10:522][406]LogEditorTransaction: Undo Straighten Connection(s)
+[2017.09.25-01.45.13:380][697]LogEditorTransaction: Undo Straighten Connection(s)
+[2017.09.25-01.45.16:726][ 76]LogEditorTransaction: Undo Straighten Connection(s)
+[2017.09.25-01.45.24:023][831]LogEditorViewport: Clicking on Actor (LMB): QuestDungeonPushableBlock_C (QuestDungeonPushableBlock)
+[2017.09.25-01.46.56:023][972]BlueprintLog: New page: Compile Untitled
+[2017.09.25-01.47.21:277][900]Cmd: TRANSACTION UNDO
+[2017.09.25-01.47.21:277][900]LogEditorTransaction: Undo Rotate Actors
+[2017.09.25-01.47.27:464][306]LogEditorViewport: Clicking on Actor (LMB): QuestDungeonPressurePlate_C (QuestDungeonPressurePlate)
+[2017.09.25-01.47.28:711][394]LogEditorViewport: Clicking on Actor (LMB): QuestDungeonPressurePlate_C (QuestDungeonPressurePlate2)
+[2017.09.25-01.47.31:321][585]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.25-01.47.31:350][585]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2017.09.25-01.47.31:350][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.25-01.47.31:350][585]PIE: New page: PIE session: Untitled_2 (Sep 24, 2017, 11:47:31 AM)
+[2017.09.25-01.47.31:350][585]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2017.09.25-01.47.31:353][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003044s)
+[2017.09.25-01.47.31:354][585]LogAIModule: Creating AISystem for world Untitled_2
+[2017.09.25-01.47.31:354][585]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2017.09.25-01.47.31:354][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.003990s)
+[2017.09.25-01.47.31:384][585]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.25-01.47.31:391][585]LogInit: FAudioDevice initialized.
+[2017.09.25-01.47.31:417][585]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.25-01.47.31:419][585]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2017.09.24-18.47.31
+[2017.09.25-01.47.31:419][585]LogWorld: Bringing up level for play took: 0.001503
+[2017.09.25-01.47.31:420][585]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-01.47.31:420][585]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-01.47.31:420][585]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-01.47.31:423][585]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-01.47.31:423][585]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 0.822
+[2017.09.25-01.47.31:423][585]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2017.09.25-01.47.46:063][728]Cmd: LevelEditor.ToggleImmersive
+[2017.09.25-01.47.48:884][ 30]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2017.09.25-01.47.48:952][ 30]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2017.09.25-01.48.15:643][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_2" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_2_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.09.25-01.52.43:418][328]LogSavePackage: Save=267761.28ms
+[2017.09.25-01.52.43:418][328]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Untitled_2_Auto76DFBEBC1401D7FD4593339B88B3E7CDB.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_2_Auto7.umap'
+[2017.09.25-01.52.43:419][328]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_2_Auto7.umap
+[2017.09.25-01.52.43:424][328]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_2' took 267.805
+[2017.09.25-01.52.43:424][328]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 267.805
+[2017.09.25-01.52.43:462][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tutorials/LevelDesign3/Lesson05/PuzzleComplete] ([1] browsable assets)...
+[2017.09.25-01.52.43:462][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tutorials/LevelDesign3/Lesson05/PuzzleComplete]
+[2017.09.25-01.52.43:482][328]LogSavePackage: Save=13.32ms
+[2017.09.25-01.52.43:482][328]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/PuzzleComplete_Auto746121B54460D0AC35C5F95B44459A3B0.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Tutorials/LevelDesign3/Lesson05/PuzzleComplete_Auto7.uasset'
+[2017.09.25-01.52.43:483][328]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Tutorials/LevelDesign3/Lesson05/PuzzleComplete_Auto7.uasset
+[2017.09.25-01.52.43:483][328]LogFileHelpers: Auto-saving content packages took 0.022
+[2017.09.25-02.02.05:531][522]LogAudioDerivedData: Display: Building compressed audio format OGG wave Music_BlackVortex...
+[2017.09.25-02.02.08:933][522]LogAudioDerivedData: Display: Building compressed audio format OGG wave Music_DreamyFlashback...
+[2017.09.25-02.02.11:500][522]LogAudioDerivedData: Display: Building compressed audio format OGG wave Music_WitchHunt...
+[2017.09.25-02.03.14:711][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_2" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_2_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.09.25-02.03.17:549][918]LogSavePackage: Save=2837.57ms
+[2017.09.25-02.03.17:550][918]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Untitled_2_Auto8A9BDA86847368FBA7EA655942718D9CE.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_2_Auto8.umap'
+[2017.09.25-02.03.17:550][918]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_2_Auto8.umap
+[2017.09.25-02.03.17:554][918]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_2' took 2.877
+[2017.09.25-02.03.17:554][918]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.877
+[2017.09.25-02.07.59:910][868]BlueprintLog: New page: Compile Untitled
+[2017.09.25-02.08.03:187][ 33]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.25-02.08.03:235][ 33]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2017.09.25-02.08.03:235][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.25-02.08.03:235][ 33]PIE: New page: PIE session: Untitled_2 (Sep 24, 2017, 12:08:03 PM)
+[2017.09.25-02.08.03:236][ 33]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2017.09.25-02.08.03:241][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005311s)
+[2017.09.25-02.08.03:242][ 33]LogAIModule: Creating AISystem for world Untitled_2
+[2017.09.25-02.08.03:242][ 33]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2017.09.25-02.08.03:242][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.006364s)
+[2017.09.25-02.08.03:278][ 33]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.25-02.08.03:289][ 33]LogInit: FAudioDevice initialized.
+[2017.09.25-02.08.03:318][ 33]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.25-02.08.03:320][ 33]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2017.09.24-19.08.03
+[2017.09.25-02.08.03:321][ 33]LogWorld: Bringing up level for play took: 0.001477
+[2017.09.25-02.08.03:321][ 33]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.08.03:321][ 33]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.08.03:321][ 33]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.08.03:325][ 33]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.08.03:325][ 33]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 0.662
+[2017.09.25-02.08.03:325][ 33]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2017.09.25-02.08.09:941][823]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2017.09.25-02.08.09:983][823]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2017.09.25-02.13.24:824][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_2" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_2_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.09.25-02.14.53:664][315]LogSavePackage: Save=88834.03ms
+[2017.09.25-02.14.53:664][315]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Untitled_2_Auto94AE746F04062A006C72FEFADBEA69FF6.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_2_Auto9.umap'
+[2017.09.25-02.14.53:664][315]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_2_Auto9.umap
+[2017.09.25-02.14.53:669][315]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_2' took 88.879
+[2017.09.25-02.14.53:669][315]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 88.879
+[2017.09.25-02.18.45:378][453]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.25-02.18.45:416][453]LightingResults: New page: Lighting Build
+[2017.09.25-02.18.45:418][453]LoadErrors: New page: Loading map: Template_Default.umap
+[2017.09.25-02.18.45:528][453]MapCheck: New page: Map Check
+[2017.09.25-02.18.45:528][453]LightingResults: New page: Lighting Build
+[2017.09.25-02.18.45:587][453]LogAIModule: Creating AISystem for world Untitled_3
+[2017.09.25-02.18.45:719][453]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.25-02.18.45:764][453]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.25-02.18.45:904][453]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 139.887ms to complete.
+[2017.09.25-02.18.45:905][453]LogFileHelpers: Loading map 'Template_Default' took 0.529
+[2017.09.25-02.18.52:956][243]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.09.25-02.18.54:040][349]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.09.25-02.18.54:842][432]LogStaticMesh: Building static mesh Cemetary_Crypt...
+[2017.09.25-02.18.54:966][432]LogStaticMesh: Built static mesh [0.12s] /Game/Environment/Cemetary/Meshes/Cemetary_Crypt.Cemetary_Crypt
+[2017.09.25-02.18.55:014][432]LogActorFactory: Actor Factory created Cemetary_Crypt
+[2017.09.25-02.18.55:650][494]LogActorFactory: Actor Factory created Cemetary_Crypt
+[2017.09.25-02.19.09:520][ 66]LogStaticMesh: Building static mesh Cemetary_Crypt_DestructableStatue...
+[2017.09.25-02.19.09:635][ 66]LogStaticMesh: Built static mesh [0.12s] /Game/Environment/Cemetary/Meshes/Cemetary_Crypt_DestructableStatue.Cemetary_Crypt_DestructableStatue
+[2017.09.25-02.19.09:681][ 66]LogActorFactory: Actor Factory created Cemetary_Crypt_DestructableStatue
+[2017.09.25-02.19.10:321][127]LogActorFactory: Actor Factory created Cemetary_Crypt_DestructableStatue
+[2017.09.25-02.19.26:990][991]Cmd: DELETE
+[2017.09.25-02.19.26:990][991]Cmd: ACTOR DELETE
+[2017.09.25-02.19.26:990][991]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.09.25-02.19.27:012][991]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2017.09.25-02.19.43:795][980]LogAudioDerivedData: Display: Building compressed audio format OGG wave SFX_ScatteredGhosts...
+[2017.09.25-02.21.59:530][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Footstep_Ice_Run09...
+[2017.09.25-02.21.59:556][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Footstep_Ice_Walk01...
+[2017.09.25-02.21.59:581][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Footstep_Ice_Walk02...
+[2017.09.25-02.21.59:616][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Footstep_Ice_Walk03...
+[2017.09.25-02.21.59:645][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Footstep_Ice_Walk04...
+[2017.09.25-02.21.59:677][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Footstep_Ice_Walk05...
+[2017.09.25-02.21.59:699][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Footstep_Ice_Walk06...
+[2017.09.25-02.21.59:726][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Footstep_Ice_Walk07...
+[2017.09.25-02.21.59:743][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Footstep_Ice_Walk08...
+[2017.09.25-02.21.59:761][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Footstep_Ice_Walk09...
+[2017.09.25-02.21.59:789][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave General_GetGold_01...
+[2017.09.25-02.21.59:812][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave General_GetGold_02...
+[2017.09.25-02.21.59:833][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave General_GetGold_03...
+[2017.09.25-02.21.59:867][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave General_GetResources_02...
+[2017.09.25-02.21.59:883][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave General_GetResources_03...
+[2017.09.25-02.21.59:897][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Hammer_Impact01...
+[2017.09.25-02.21.59:911][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Hammer_Impact02...
+[2017.09.25-02.21.59:928][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Hammer_Impact03...
+[2017.09.25-02.21.59:964][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Hammer_Impact04...
+[2017.09.25-02.21.59:983][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Hammer_ImpactHeavy01...
+[2017.09.25-02.22.00:012][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Hammer_ImpactHeavy02...
+[2017.09.25-02.22.00:034][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Hammer_ImpactHeavy03...
+[2017.09.25-02.22.00:062][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Hammer_ImpactHeavy04...
+[2017.09.25-02.22.00:157][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Scary_Moan01...
+[2017.09.25-02.22.00:228][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave SFX_CombatComplete...
+[2017.09.25-02.22.00:340][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Body_ArmSlam01...
+[2017.09.25-02.22.00:370][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Body_ArmSlam02...
+[2017.09.25-02.22.00:396][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Body_ArmSlam03...
+[2017.09.25-02.22.00:427][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Footstep_Large01...
+[2017.09.25-02.22.00:462][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Footstep_Large02...
+[2017.09.25-02.22.00:480][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Footstep_Large03...
+[2017.09.25-02.22.00:500][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Footstep_Large04...
+[2017.09.25-02.22.00:519][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Footstep_Large05...
+[2017.09.25-02.22.00:532][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Footstep_Large06...
+[2017.09.25-02.22.00:548][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Footstep_Large07...
+[2017.09.25-02.22.00:570][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Footstep_Small01...
+[2017.09.25-02.22.00:591][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Footstep_Small02...
+[2017.09.25-02.22.00:618][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Footstep_Small03...
+[2017.09.25-02.22.00:633][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Footstep_Small04...
+[2017.09.25-02.22.00:650][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Footstep_Small05...
+[2017.09.25-02.22.00:666][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Spider_Footstep_Small06...
+[2017.09.25-02.22.00:698][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Sword_bigImpact_01...
+[2017.09.25-02.22.00:722][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Sword_bigImpact_02...
+[2017.09.25-02.22.00:745][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Sword_bigImpact_03...
+[2017.09.25-02.22.00:770][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Sword_bigImpact_04...
+[2017.09.25-02.22.00:792][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Sword_Buildup_01...
+[2017.09.25-02.22.00:821][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Sword_Impact_Wood_01...
+[2017.09.25-02.22.00:838][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Sword_Impact_Wood_02...
+[2017.09.25-02.22.00:860][820]LogAudioDerivedData: Display: Building compressed audio format OGG wave Sword_Impact_Wood_03...
+[2017.09.25-02.22.07:431][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/SFX_ScatteredGhosts_Cue" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Audio/SFX/SFX_ScatteredGhosts_Cue.uasset" SILENT=true
+[2017.09.25-02.22.07:438][441]LogSavePackage: Save=4.96ms
+[2017.09.25-02.22.07:438][441]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/SFX_ScatteredGhosts_Cue9A71D3AB42A7FB812DBBD08D48D28454.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Audio/SFX/SFX_ScatteredGhosts_Cue.uasset'
+[2017.09.25-02.22.07:439][441]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Audio/SFX/SFX_ScatteredGhosts_Cue.uasset
+[2017.09.25-02.24.26:759][125]Cmd: DELETE
+[2017.09.25-02.24.26:759][125]Cmd: ACTOR DELETE
+[2017.09.25-02.24.26:759][125]LogEditorActor: Deleted Actor: AmbientSound
+[2017.09.25-02.24.26:793][125]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2017.09.25-02.25.37:218][782]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.25-02.25.37:245][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.25-02.25.37:245][782]PIE: New page: PIE session: Untitled_3 (Sep 24, 2017, 12:25:37 PM)
+[2017.09.25-02.25.37:246][782]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_3
+[2017.09.25-02.25.37:247][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001519s)
+[2017.09.25-02.25.37:248][782]LogAIModule: Creating AISystem for world Untitled_3
+[2017.09.25-02.25.37:248][782]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2017.09.25-02.25.37:248][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_3.Untitled_3 to /Temp/UEDPIE_0_Untitled_3.Untitled_3 (0.002476s)
+[2017.09.25-02.25.37:269][782]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.25-02.25.37:277][782]LogInit: FAudioDevice initialized.
+[2017.09.25-02.25.37:307][782]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.25-02.25.37:309][782]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_3.Untitled_3 up for play (max tick rate 0) at 2017.09.24-19.25.37
+[2017.09.25-02.25.37:309][782]LogWorld: Bringing up level for play took: 0.000985
+[2017.09.25-02.25.37:310][782]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.25.37:310][782]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.25.37:310][782]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.25.37:313][782]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.25.37:313][782]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_3 0.597
+[2017.09.25-02.25.38:228][871]LogActorComponent: ReregisterComponent: (/Temp/Untitled_3.Untitled_3:PersistentLevel.General_GetGold_01_5.AudioComponent0) Not currently registered. Aborting.
+[2017.09.25-02.25.39:882][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.25-02.25.44:865][509]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.25-02.25.44:889][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.25-02.25.44:889][509]PIE: New page: PIE session: Untitled_3 (Sep 24, 2017, 12:25:44 PM)
+[2017.09.25-02.25.44:890][509]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_3
+[2017.09.25-02.25.44:891][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001450s)
+[2017.09.25-02.25.44:892][509]LogAIModule: Creating AISystem for world Untitled_3
+[2017.09.25-02.25.44:892][509]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2017.09.25-02.25.44:892][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_3.Untitled_3 to /Temp/UEDPIE_0_Untitled_3.Untitled_3 (0.002327s)
+[2017.09.25-02.25.44:924][509]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.25-02.25.44:934][509]LogInit: FAudioDevice initialized.
+[2017.09.25-02.25.44:967][509]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.25-02.25.44:969][509]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_3.Untitled_3 up for play (max tick rate 0) at 2017.09.24-19.25.44
+[2017.09.25-02.25.44:969][509]LogWorld: Bringing up level for play took: 0.001257
+[2017.09.25-02.25.44:970][509]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.25.44:970][509]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.25.44:970][509]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.25.44:973][509]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.25.44:973][509]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_3 0.257
+[2017.09.25-02.25.52:805][344]LogActorComponent: ReregisterComponent: (/Temp/Untitled_3.Untitled_3:PersistentLevel.General_GetGold_01_5.AudioComponent0) Not currently registered. Aborting.
+[2017.09.25-02.26.18:627][779]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.25-02.26.18:660][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.25-02.26.18:660][779]PIE: New page: PIE session: Untitled_3 (Sep 24, 2017, 12:26:18 PM)
+[2017.09.25-02.26.18:661][779]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_3
+[2017.09.25-02.26.18:663][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001773s)
+[2017.09.25-02.26.18:664][779]LogAIModule: Creating AISystem for world Untitled_3
+[2017.09.25-02.26.18:664][779]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2017.09.25-02.26.18:664][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_3.Untitled_3 to /Temp/UEDPIE_0_Untitled_3.Untitled_3 (0.002908s)
+[2017.09.25-02.26.18:702][779]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.25-02.26.18:710][779]LogInit: FAudioDevice initialized.
+[2017.09.25-02.26.18:741][779]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.25-02.26.18:742][779]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_3.Untitled_3 up for play (max tick rate 0) at 2017.09.24-19.26.18
+[2017.09.25-02.26.18:743][779]LogWorld: Bringing up level for play took: 0.001178
+[2017.09.25-02.26.18:743][779]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.26.18:743][779]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.26.18:743][779]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.26.18:747][779]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.26.18:747][779]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_3 0.029
+[2017.09.25-02.26.35:757][443]LogActorComponent: ReregisterComponent: (/Temp/Untitled_3.Untitled_3:PersistentLevel.General_GetGold_01_5.AudioComponent0) Not currently registered. Aborting.
+[2017.09.25-02.26.40:224][842]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.25-02.26.40:249][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.25-02.26.40:249][842]PIE: New page: PIE session: Untitled_3 (Sep 24, 2017, 12:26:40 PM)
+[2017.09.25-02.26.40:250][842]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_3
+[2017.09.25-02.26.40:253][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002691s)
+[2017.09.25-02.26.40:254][842]LogAIModule: Creating AISystem for world Untitled_3
+[2017.09.25-02.26.40:254][842]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2017.09.25-02.26.40:254][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_3.Untitled_3 to /Temp/UEDPIE_0_Untitled_3.Untitled_3 (0.003758s)
+[2017.09.25-02.26.40:284][842]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.25-02.26.40:292][842]LogInit: FAudioDevice initialized.
+[2017.09.25-02.26.40:322][842]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.25-02.26.40:325][842]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_3.Untitled_3 up for play (max tick rate 0) at 2017.09.24-19.26.40
+[2017.09.25-02.26.40:326][842]LogWorld: Bringing up level for play took: 0.002163
+[2017.09.25-02.26.40:327][842]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.26.40:327][842]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.26.40:327][842]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.26.40:335][842]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.26.40:335][842]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_3 -0.384
+[2017.09.25-02.26.45:336][306]LogActorComponent: ReregisterComponent: (/Temp/Untitled_3.Untitled_3:PersistentLevel.General_GetGold_01_5.AudioComponent0) Not currently registered. Aborting.
+[2017.09.25-02.26.55:989][183]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.25-02.26.56:025][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.25-02.26.56:025][183]PIE: New page: PIE session: Untitled_3 (Sep 24, 2017, 12:26:56 PM)
+[2017.09.25-02.26.56:026][183]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_3
+[2017.09.25-02.26.56:029][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002684s)
+[2017.09.25-02.26.56:029][183]LogAIModule: Creating AISystem for world Untitled_3
+[2017.09.25-02.26.56:030][183]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2017.09.25-02.26.56:030][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_3.Untitled_3 to /Temp/UEDPIE_0_Untitled_3.Untitled_3 (0.003757s)
+[2017.09.25-02.26.56:059][183]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.25-02.26.56:068][183]LogInit: FAudioDevice initialized.
+[2017.09.25-02.26.56:098][183]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.25-02.26.56:100][183]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_3.Untitled_3 up for play (max tick rate 0) at 2017.09.24-19.26.56
+[2017.09.25-02.26.56:101][183]LogWorld: Bringing up level for play took: 0.002272
+[2017.09.25-02.26.56:102][183]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.26.56:102][183]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.26.56:102][183]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.26.56:110][183]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.26.56:110][183]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_3 -0.609
+[2017.09.25-02.27.02:662][814]LogActorComponent: ReregisterComponent: (/Temp/Untitled_3.Untitled_3:PersistentLevel.General_GetGold_01_5.AudioComponent0) Not currently registered. Aborting.
+[2017.09.25-02.27.08:717][400]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.25-02.27.08:765][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.25-02.27.08:765][400]PIE: New page: PIE session: Untitled_3 (Sep 24, 2017, 12:27:08 PM)
+[2017.09.25-02.27.08:766][400]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_3
+[2017.09.25-02.27.08:769][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002740s)
+[2017.09.25-02.27.08:770][400]LogAIModule: Creating AISystem for world Untitled_3
+[2017.09.25-02.27.08:770][400]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2017.09.25-02.27.08:770][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_3.Untitled_3 to /Temp/UEDPIE_0_Untitled_3.Untitled_3 (0.004189s)
+[2017.09.25-02.27.08:812][400]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.25-02.27.08:821][400]LogInit: FAudioDevice initialized.
+[2017.09.25-02.27.08:855][400]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.25-02.27.08:857][400]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_3.Untitled_3 up for play (max tick rate 0) at 2017.09.24-19.27.08
+[2017.09.25-02.27.08:858][400]LogWorld: Bringing up level for play took: 0.001939
+[2017.09.25-02.27.08:859][400]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.27.08:859][400]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.27.08:859][400]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.27.08:866][400]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.27.08:866][400]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_3 0.145
+[2017.09.25-02.27.19:440][408]LogActorComponent: ReregisterComponent: (/Temp/Untitled_3.Untitled_3:PersistentLevel.General_GetGold_01_5.AudioComponent0) Not currently registered. Aborting.
+[2017.09.25-02.29.47:651][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_3" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_3_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.09.25-02.29.47:674][301]LogSavePackage: Save=22.70ms
+[2017.09.25-02.29.47:674][301]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Untitled_3_Auto05C1CC1E54132ABEA5C044EB1547F3423.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_3_Auto0.umap'
+[2017.09.25-02.29.47:674][301]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_3_Auto0.umap
+[2017.09.25-02.29.47:675][301]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_3' took 0.054
+[2017.09.25-02.29.47:676][301]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.054
+[2017.09.25-02.29.47:677][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tutorials/LevelDesign3/Lesson05/AmbientSound] ([1] browsable assets)...
+[2017.09.25-02.29.47:677][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tutorials/LevelDesign3/Lesson05/AmbientSound]
+[2017.09.25-02.29.47:686][301]LogSavePackage: Save=4.26ms
+[2017.09.25-02.29.47:686][301]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/AmbientSound_Auto05AE2B840405FA992714ACEA487E276A3.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Tutorials/LevelDesign3/Lesson05/AmbientSound_Auto0.uasset'
+[2017.09.25-02.29.47:687][301]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Tutorials/LevelDesign3/Lesson05/AmbientSound_Auto0.uasset
+[2017.09.25-02.29.47:687][301]LogFileHelpers: Auto-saving content packages took 0.010
+[2017.09.25-02.33.32:471][640]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.25-02.33.32:504][640]LightingResults: New page: Lighting Build
+[2017.09.25-02.33.32:505][640]LoadErrors: New page: Loading map: Template_Default.umap
+[2017.09.25-02.33.32:520][640]MapCheck: New page: Map Check
+[2017.09.25-02.33.32:520][640]LightingResults: New page: Lighting Build
+[2017.09.25-02.33.32:572][640]LogAIModule: Creating AISystem for world Untitled_4
+[2017.09.25-02.33.32:725][640]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.25-02.33.32:768][640]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.25-02.33.32:917][640]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 148.496ms to complete.
+[2017.09.25-02.33.32:917][640]LogFileHelpers: Loading map 'Template_Default' took 0.448
+[2017.09.25-02.33.34:175][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.25-02.33.43:281][755]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.25-02.34.14:390][910]LogEditorViewport: Clicking on Actor (CTRL LMB): QuestAISpawner_C (QuestAISpawner)
+[2017.09.25-02.35.05:279][760]LogEditorViewport: Clicking on Actor (LMB): QuestAISpawner_C (QuestAISpawner2)
+[2017.09.25-02.38.56:708][685]BlueprintLog: New page: Compile Untitled
+[2017.09.25-02.38.56:719][685]LogBlueprint: Error: [Compiler PersistentLevel.Untitled] This blueprint (self) is not a QuestCharacter_C, therefore ' Target ' must have a connection.
+[2017.09.25-02.38.58:198][685]LogBlueprint: Warning: [Compiler PersistentLevel.Untitled] [6333.73] Compile of PersistentLevel.Untitled failed. 1 Fatal Issue(s) 0 Warning(s) [in 1,489 ms] (/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled)
+[2017.09.25-02.39.03:819][248]BlueprintLog: New page: Compile Untitled
+[2017.09.25-02.39.12:627][497]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.25-02.39.12:654][497]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_4.Untitled_4:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_4.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled'
+[2017.09.25-02.39.12:654][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.25-02.39.12:654][497]PIE: New page: PIE session: Untitled_4 (Sep 24, 2017, 12:39:12 PM)
+[2017.09.25-02.39.12:655][497]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_4
+[2017.09.25-02.39.12:657][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002840s)
+[2017.09.25-02.39.12:658][497]LogAIModule: Creating AISystem for world Untitled_4
+[2017.09.25-02.39.12:658][497]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2017.09.25-02.39.12:658][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_4.Untitled_4 to /Temp/UEDPIE_0_Untitled_4.Untitled_4 (0.003807s)
+[2017.09.25-02.39.12:690][497]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.25-02.39.12:697][497]LogInit: FAudioDevice initialized.
+[2017.09.25-02.39.12:725][497]LogLoad: Game class is 'QuestGameMode_C'
+[2017.09.25-02.39.12:727][497]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_4.Untitled_4 up for play (max tick rate 0) at 2017.09.24-19.39.12
+[2017.09.25-02.39.12:727][497]LogWorld: Bringing up level for play took: 0.001437
+[2017.09.25-02.39.12:728][497]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.39.12:728][497]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.25-02.39.12:728][497]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.39.12:737][497]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.09.25-02.39.12:737][497]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_4 -0.019
+[2017.09.25-02.39.12:738][497]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_4.Untitled_4:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_4.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled'
+[2017.09.25-02.39.35:306][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_4.Untitled_4:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_4.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled'
+[2017.09.25-02.39.35:359][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_4.Untitled_4:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_4.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled'
+[2017.09.25-02.43.56:615][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_4" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_4_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.09.25-02.44.46:451][ 22]LogSavePackage: Save=49832.98ms
+[2017.09.25-02.44.46:451][ 22]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Untitled_4_Auto1753F52E84D6A38D1F7B72FB084B203CE.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_4_Auto1.umap'
+[2017.09.25-02.44.46:451][ 22]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_4_Auto1.umap
+[2017.09.25-02.44.46:455][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_4' took 49.883
+[2017.09.25-02.44.46:455][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 49.883
+[2017.09.25-02.44.46:473][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tutorials/LevelDesign3/Lesson05/CombatComplete] ([1] browsable assets)...
+[2017.09.25-02.44.46:473][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tutorials/LevelDesign3/Lesson05/CombatComplete]
+[2017.09.25-02.44.46:486][ 22]LogSavePackage: Save=7.61ms
+[2017.09.25-02.44.46:486][ 22]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/CombatComplete_Auto1239C78FC48BA206165F3E4BCEC99DBDF.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Tutorials/LevelDesign3/Lesson05/CombatComplete_Auto1.uasset'
+[2017.09.25-02.44.46:527][ 22]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Tutorials/LevelDesign3/Lesson05/CombatComplete_Auto1.uasset
+[2017.09.25-02.44.46:527][ 22]LogFileHelpers: Auto-saving content packages took 0.054
+[2017.09.25-16.00.37:681][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/MT_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/MT_sparks.uasset" SILENT=true
+[2017.09.25-16.00.37:697][642]LogSavePackage: Save=14.01ms
+[2017.09.25-16.00.37:697][642]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/MT_sparksD5976C294040631459D1D788622A13A6.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/MT_sparks.uasset'
+[2017.09.25-16.00.37:698][642]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/MT_sparks.uasset
+[2017.09.25-16.00.41:291][785]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0010 seconds. Added 1 classes and 0 folders.
+[2017.09.25-16.00.41:296][785]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.00.41:428][785]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.00.41:443][785]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.00.42:761][923]MaterialEditorStats: Base pass shader: 56 instructions
+[2017.09.25-16.00.42:761][923]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.09.25-16.00.42:761][923]MaterialEditorStats: Texture samplers: 0/16
+[2017.09.25-16.00.49:291][703]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.00.49:319][703]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.00.50:843][869]MaterialEditorStats: Base pass shader: 44 instructions
+[2017.09.25-16.00.50:843][869]MaterialEditorStats: Vertex shader: 122 instructions
+[2017.09.25-16.00.50:844][869]MaterialEditorStats: Texture samplers: 4/16
+[2017.09.25-16.00.54:928][355]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.00.54:943][355]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.00.55:831][448]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2017.09.25-16.00.55:831][448]MaterialEditorStats: Vertex shader: 122 instructions
+[2017.09.25-16.00.55:831][448]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.01.24:370][855]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.01.24:438][856]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.09.25-16.01.25:357][959]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2017.09.25-16.01.25:357][959]MaterialEditorStats: Vertex shader: 122 instructions
+[2017.09.25-16.01.25:357][959]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.01.29:801][490]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.01.30:534][560]MaterialEditorStats: Base pass shader without light map: 39 instructions
+[2017.09.25-16.01.30:534][560]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.01.30:534][560]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.01.30:534][560]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.01.30:836][596]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.01.31:510][667]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.01.31:510][667]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.01.31:510][667]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.01.31:510][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.01.43:286][ 67]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.01.43:989][142]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.01.43:989][142]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.01.43:989][142]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.01.43:989][142]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.01.57:968][811]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.01.57:977][811]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.01.58:686][885]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.01.58:687][885]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.01.58:687][885]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.01.58:687][885]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.02.04:298][557]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.02.05:047][644]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.02.05:047][644]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.02.05:047][644]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.02.05:047][644]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.02.07:229][903]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.02.07:917][975]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.02.07:917][975]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.02.07:917][975]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.02.07:917][975]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.02.08:571][ 52]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.02.09:279][120]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.02.09:279][120]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.02.09:279][120]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.02.09:279][120]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.02.09:475][143]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.02.10:165][213]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.02.10:165][213]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.02.10:165][213]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.02.10:165][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.02.13:831][650]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.02.14:527][722]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.02.14:527][722]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.02.14:527][722]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.02.14:527][722]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.02.20:929][172]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.02.21:566][240]MaterialEditorStats: Base pass shader without light map: 25 instructions
+[2017.09.25-16.02.21:566][240]MaterialEditorStats: Vertex shader: 122 instructions
+[2017.09.25-16.02.21:566][240]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.02.24:594][602]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.02.25:296][677]MaterialEditorStats: Base pass shader without light map: 39 instructions
+[2017.09.25-16.02.25:296][677]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.02.25:296][677]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.02.25:296][677]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.02.26:067][768]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.02.26:734][841]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.02.26:734][841]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.02.26:734][841]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.02.26:734][841]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.02.57:309][509]LogMaterialEditor: Applying material MT_sparks
+[2017.09.25-16.02.57:819][509]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.02.57:877][509]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.02.57:896][509]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.02.57:947][509]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MT_sparks, compiling. 
+[2017.09.25-16.02.58:538][509]TextureStreamingBuild: Display: Compiling optional shaders took 0.597 seconds.
+[2017.09.25-16.02.59:850][662]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.02.59:850][662]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.02.59:850][662]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.02.59:850][662]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.03.05:380][325]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.03.06:064][401]MaterialEditorStats: Base pass shader without light map: 25 instructions
+[2017.09.25-16.03.06:064][401]MaterialEditorStats: Vertex shader: 122 instructions
+[2017.09.25-16.03.06:064][401]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.03.08:473][686]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.03.09:153][760]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.03.09:154][760]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.03.09:154][760]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.03.09:154][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.03.09:716][827]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.03.10:388][899]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.03.10:388][899]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.03.10:388][899]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.03.10:388][899]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.03.11:084][982]LogMaterialEditor: Applying material MT_sparks
+[2017.09.25-16.03.11:605][982]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.03.11:672][982]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.03.11:687][982]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.03.11:733][982]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MT_sparks, compiling. 
+[2017.09.25-16.03.12:094][982]TextureStreamingBuild: Display: Compiling optional shaders took 0.369 seconds.
+[2017.09.25-16.03.13:793][100]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.03.13:793][100]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.03.13:793][100]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.25-16.03.13:793][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.03.22:455][358]LogMaterialEditor: Saving and Compiling material MT_sparks
+[2017.09.25-16.03.22:488][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/MT_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/MT_sparks.uasset" SILENT=true
+[2017.09.25-16.03.22:503][358]LogSavePackage: Save=9.64ms
+[2017.09.25-16.03.22:503][358]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/MT_sparks035ABB764F853B0FEE334EB0DF68ED6B.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/MT_sparks.uasset'
+[2017.09.25-16.03.22:504][358]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/MT_sparks.uasset
+[2017.09.25-16.03.35:743][903]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2017.09.25-16.03.35:782][903]LogMaterial: Missing cached shader map for material DefaultParticle, compiling. 
+[2017.09.25-16.03.39:528][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset" SILENT=true
+[2017.09.25-16.03.39:535][302]LogSavePackage: Save=6.50ms
+[2017.09.25-16.03.39:535][302]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparks550E037640D277A0114B0EB27CB0EA92.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset'
+[2017.09.25-16.03.39:536][302]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset
+[2017.09.25-16.03.56:812][357]LogMaterial: Warning: Material /Game/Art/Particles/MT_sparks.MT_sparks needed to have new flag set bUsedWithParticleSprites !
+[2017.09.25-16.03.56:812][357]LogMaterial: Warning: Material /Engine/Transient.MT_sparks needed to have new flag set bUsedWithParticleSprites !
+[2017.09.25-16.03.56:814][357]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.03.56:823][357]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.03.59:384][656]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.03.59:384][656]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.03.59:384][656]MaterialEditorStats: Texture samplers: 7/16
+[2017.09.25-16.03.59:384][656]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.05.26:152][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/MT_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/MT_sparks.uasset" SILENT=true
+[2017.09.25-16.05.26:206][ 14]LogSavePackage: Save=8.63ms
+[2017.09.25-16.05.26:207][ 14]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/MT_sparksCB68ECA242F10598C5099DA0493B68A2.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/MT_sparks.uasset'
+[2017.09.25-16.05.26:209][ 14]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/MT_sparks.uasset
+[2017.09.25-16.05.57:189][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset" SILENT=true
+[2017.09.25-16.05.57:202][676]LogSavePackage: Save=9.80ms
+[2017.09.25-16.05.57:202][676]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparksE422AF6445EF2AE67D5129AFFF9CD23F.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset'
+[2017.09.25-16.05.57:203][676]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset
+[2017.09.25-16.07.45:030][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset" SILENT=true
+[2017.09.25-16.07.45:041][520]LogSavePackage: Save=6.80ms
+[2017.09.25-16.07.45:041][520]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparks1D6BF28C47C4ED4562A1E19C5CB0BC04.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset'
+[2017.09.25-16.07.45:042][520]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset
+[2017.09.25-16.08.59:696][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_4" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_4_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.09.25-16.09.01:814][597]LogSavePackage: Save=2118.08ms
+[2017.09.25-16.09.01:815][597]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Untitled_4_Auto294BF075A40C3141F9585F7B3E33C3372.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_4_Auto2.umap'
+[2017.09.25-16.09.01:843][597]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_4_Auto2.umap
+[2017.09.25-16.09.01:846][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_4' took 2.176
+[2017.09.25-16.09.01:846][597]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.176
+[2017.09.25-16.09.01:880][597]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tutorials/LevelDesign3/Lesson05/PuzzleComplete] ([1] browsable assets)...
+[2017.09.25-16.09.01:880][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tutorials/LevelDesign3/Lesson05/PuzzleComplete]
+[2017.09.25-16.09.01:891][597]LogSavePackage: Save=7.21ms
+[2017.09.25-16.09.01:891][597]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/PuzzleComplete_Auto24F02F96F41BC65FC5E68809BC9C7A2E7.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Tutorials/LevelDesign3/Lesson05/PuzzleComplete_Auto2.uasset'
+[2017.09.25-16.09.01:892][597]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Tutorials/LevelDesign3/Lesson05/PuzzleComplete_Auto2.uasset
+[2017.09.25-16.09.01:892][597]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tutorials/LevelDesign3/Lesson05/PlayMusic] ([1] browsable assets)...
+[2017.09.25-16.09.01:892][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tutorials/LevelDesign3/Lesson05/PlayMusic]
+[2017.09.25-16.09.01:900][597]LogSavePackage: Save=3.87ms
+[2017.09.25-16.09.01:900][597]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/PlayMusic_Auto2294B7699486611F5F0B9178180FAAF67.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Tutorials/LevelDesign3/Lesson05/PlayMusic_Auto2.uasset'
+[2017.09.25-16.09.01:900][597]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Tutorials/LevelDesign3/Lesson05/PlayMusic_Auto2.uasset
+[2017.09.25-16.09.01:900][597]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tutorials/LevelDesign3/Lesson05/AmbientSound] ([1] browsable assets)...
+[2017.09.25-16.09.01:900][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tutorials/LevelDesign3/Lesson05/AmbientSound]
+[2017.09.25-16.09.01:907][597]LogSavePackage: Save=3.75ms
+[2017.09.25-16.09.01:907][597]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/AmbientSound_Auto25D80091A45B670EFC4B7AA81FD357296.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Tutorials/LevelDesign3/Lesson05/AmbientSound_Auto2.uasset'
+[2017.09.25-16.09.01:908][597]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Tutorials/LevelDesign3/Lesson05/AmbientSound_Auto2.uasset
+[2017.09.25-16.09.01:908][597]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tutorials/LevelDesign3/Lesson05/CombatComplete] ([1] browsable assets)...
+[2017.09.25-16.09.01:908][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tutorials/LevelDesign3/Lesson05/CombatComplete]
+[2017.09.25-16.09.01:934][597]LogSavePackage: Save=15.82ms
+[2017.09.25-16.09.01:934][597]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/CombatComplete_Auto20DD794B64898F19583EBAEB306C4A617.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Tutorials/LevelDesign3/Lesson05/CombatComplete_Auto2.uasset'
+[2017.09.25-16.09.01:935][597]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Tutorials/LevelDesign3/Lesson05/CombatComplete_Auto2.uasset
+[2017.09.25-16.09.01:935][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Particles/P_sparks] ([1] browsable assets)...
+[2017.09.25-16.09.01:948][597]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Art/Particles/P_sparks.P_sparks]
+[2017.09.25-16.09.01:948][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Particles/P_sparks]
+[2017.09.25-16.09.01:948][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Art/Particles/P_sparks_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.09.25-16.09.01:958][597]LogSavePackage: Save=6.70ms
+[2017.09.25-16.09.01:958][597]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparks_Auto2F9FC8748435B54DB8C0CBA997C7FC6BC.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Art/Particles/P_sparks_Auto2.uasset'
+[2017.09.25-16.09.01:959][597]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Game/Art/Particles/P_sparks_Auto2.uasset
+[2017.09.25-16.09.01:959][597]LogFileHelpers: Auto-saving content packages took 0.080
+[2017.09.25-16.17.26:179][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset" SILENT=true
+[2017.09.25-16.17.26:192][148]LogSavePackage: Save=8.63ms
+[2017.09.25-16.17.26:192][148]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparks5FC8A6C447032F0A918421B882985FE3.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset'
+[2017.09.25-16.17.26:193][148]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset
+[2017.09.25-16.18.35:777][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset" SILENT=true
+[2017.09.25-16.18.35:790][327]LogSavePackage: Save=10.02ms
+[2017.09.25-16.18.35:790][327]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparks2EA3B29D439A910D76666C99A87D7032.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset'
+[2017.09.25-16.18.35:791][327]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset
+[2017.09.25-16.19.28:996][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset" SILENT=true
+[2017.09.25-16.19.29:019][525]LogSavePackage: Save=17.74ms
+[2017.09.25-16.19.29:019][525]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparks67949B14462B6868C4337885B5175865.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset'
+[2017.09.25-16.19.29:021][525]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset
+[2017.09.25-16.19.54:913][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset" SILENT=true
+[2017.09.25-16.19.54:925][609]LogSavePackage: Save=9.54ms
+[2017.09.25-16.19.54:925][609]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparksE3D1691A4AC2D1B85FE2DAB56BF70AB0.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset'
+[2017.09.25-16.19.54:926][609]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset
+[2017.09.25-16.20.14:080][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset" SILENT=true
+[2017.09.25-16.20.14:093][888]LogSavePackage: Save=10.29ms
+[2017.09.25-16.20.14:093][888]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparks73C104EA42BE7D892B7638A33F23C9D2.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset'
+[2017.09.25-16.20.14:095][888]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset
+[2017.09.25-16.20.26:040][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset" SILENT=true
+[2017.09.25-16.20.26:052][308]LogSavePackage: Save=9.32ms
+[2017.09.25-16.20.26:052][308]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparks1F0346CF487FF51C5B0FD3893E2F1D76.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset'
+[2017.09.25-16.20.26:053][308]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset
+[2017.09.25-16.21.03:924][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset" SILENT=true
+[2017.09.25-16.21.03:938][838]LogSavePackage: Save=9.40ms
+[2017.09.25-16.21.03:938][838]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparks0B26FDBC4B654B930CE68DB0D3DE0EC0.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset'
+[2017.09.25-16.21.03:939][838]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset
+[2017.09.25-16.21.22:641][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset" SILENT=true
+[2017.09.25-16.21.22:653][ 73]LogSavePackage: Save=9.12ms
+[2017.09.25-16.21.22:653][ 73]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparksF83FCDC642AAFB92D62F729ACCF8FFE5.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset'
+[2017.09.25-16.21.22:654][ 73]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset
+[2017.09.25-16.21.31:132][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset" SILENT=true
+[2017.09.25-16.21.31:144][ 82]LogSavePackage: Save=9.53ms
+[2017.09.25-16.21.31:144][ 82]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparks1B97A6A740282386A99F26A9D4767AA3.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset'
+[2017.09.25-16.21.31:145][ 82]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset
+[2017.09.25-16.22.37:003][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset" SILENT=true
+[2017.09.25-16.22.37:013][234]LogSavePackage: Save=6.90ms
+[2017.09.25-16.22.37:013][234]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparksC198B1494BBC9148AE45F3B1125F156D.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset'
+[2017.09.25-16.22.37:014][234]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset
+[2017.09.25-16.24.26:365][774]LogMaterialEditor: Applying material MT_sparks
+[2017.09.25-16.24.26:886][774]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.24.26:951][774]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.24.26:984][774]LogMaterial: Missing cached shader map for material MT_sparks, compiling. 
+[2017.09.25-16.24.27:037][774]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MT_sparks, compiling. 
+[2017.09.25-16.24.27:587][774]TextureStreamingBuild: Display: Compiling optional shaders took 0.557 seconds.
+[2017.09.25-16.24.28:195][839]LogMaterialEditor: Saving and Compiling material MT_sparks
+[2017.09.25-16.24.29:395][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/MT_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/MT_sparks.uasset" SILENT=true
+[2017.09.25-16.24.29:412][839]LogSavePackage: Save=12.82ms
+[2017.09.25-16.24.29:412][839]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/MT_sparks39D555EE4E94EB3BD47EB186425A5F49.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/MT_sparks.uasset'
+[2017.09.25-16.24.29:413][839]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/MT_sparks.uasset
+[2017.09.25-16.24.29:422][839]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2017.09.25-16.24.29:422][839]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.09.25-16.24.29:422][839]MaterialEditorStats: Texture samplers: 7/16
+[2017.09.25-16.24.29:422][839]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.25-16.24.30:638][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_sparks" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset" SILENT=true
+[2017.09.25-16.24.30:648][982]LogSavePackage: Save=7.22ms
+[2017.09.25-16.24.30:648][982]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_sparks70C125344816CBB16A03A2BAAB5059FA.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset'
+[2017.09.25-16.24.30:649][982]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Art/Particles/P_sparks.uasset
+[2017.09.25-16.25.02:888][724]Cmd: DELETE
+[2017.09.25-16.25.02:888][724]Cmd: ACTOR DELETE
+[2017.09.25-16.25.02:889][724]LogEditorActor: Deleted Actor: Emitter
+[2017.09.25-16.25.02:919][724]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2017.09.25-16.26.23:673][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_4" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_4_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.09.25-16.27.35:032][ 16]LogSavePackage: Save=71354.95ms
+[2017.09.25-16.27.35:032][ 16]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Untitled_4_Auto3F17912CB44308801AA1756AE7F3BD319.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_4_Auto3.umap'
+[2017.09.25-16.27.35:033][ 16]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_4_Auto3.umap
+[2017.09.25-16.27.35:036][ 16]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_4' took 71.403
+[2017.09.25-16.27.35:036][ 16]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 71.403
+[2017.09.25-16.28.08:835][830]LogCascade: Quitting Cascade. FXSystem=0x00000001B8E900E0
+[2017.09.25-16.28.09:909][937]LogCascade: Quitting Cascade. FXSystem=0x00000001B09191C0
+[2017.09.25-16.28.09:944][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2017.09.25-16.35.23:328][815]LogTexture: Display: Building textures: ThumbnailTexture (BGRA8, 512X512)
+[2017.09.25-16.35.24:467][943]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2017.09.25-16.35.24:549][943]LogSavePackage: Save=85.14ms
+[2017.09.25-16.35.24:549][943]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_Orange784AD3A6472ADB2F94516F87E462DCDF.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.35.24:550][943]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.35.49:913][920]LogSavePackage: Save=42.10ms
+[2017.09.25-16.35.49:913][920]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_Orange3E2C11B94B62C796200D8AA8CA513C6D.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.35.49:916][920]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.36.16:697][107]LogSavePackage: Save=21.57ms
+[2017.09.25-16.36.16:697][107]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_Orange9A3F2F29414DF3E9EF4CF08920C0E059.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.36.16:699][107]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.36.29:186][585]LogSavePackage: Save=21.54ms
+[2017.09.25-16.36.29:186][585]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_Orange21EE043947888DE60CA628A3DF5E60F7.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.36.29:187][585]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.37.57:003][ 75]LogSavePackage: Save=21.04ms
+[2017.09.25-16.37.57:003][ 75]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_Orange9EF4D7BB418E0149665D0C8422E763F3.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.37.57:004][ 75]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.38.06:351][184]LogSavePackage: Save=26.41ms
+[2017.09.25-16.38.06:351][184]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_Orange5688A2ED446BDDF75CE089B6ED0F64C6.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.38.06:352][184]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.38.36:521][785]LogSavePackage: Save=20.89ms
+[2017.09.25-16.38.36:521][785]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_Orange5EAE6D05449A279B530ECDA64CF99108.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.38.36:523][785]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.40.13:454][340]LogSavePackage: Save=32.51ms
+[2017.09.25-16.40.13:454][340]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_OrangeC1CD657D4F995C92B0A373989FDCDE1D.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.40.13:456][340]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.41.08:318][905]LogSavePackage: Save=43.21ms
+[2017.09.25-16.41.08:318][905]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_Orange09B4AE504988C636E541E5B58A55E743.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.41.08:319][905]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.42.25:446][ 86]LogSavePackage: Save=25.48ms
+[2017.09.25-16.42.25:446][ 86]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_OrangeA1297993475E23E081DA02932952867F.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.42.25:449][ 86]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.42.45:559][480]LogSavePackage: Save=20.84ms
+[2017.09.25-16.42.45:559][480]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_OrangeEC57D8BF489CC6409B7AA2901B2571E2.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.42.45:560][480]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.43.06:946][790]LogSavePackage: Save=21.30ms
+[2017.09.25-16.43.06:946][790]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_OrangeD6642D094C8AB76165C86094AE47923D.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.43.06:947][790]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.44.34:234][259]LogEditorTransaction: Undo Add Child
+[2017.09.25-16.45.06:669][109]LogSavePackage: Save=20.72ms
+[2017.09.25-16.45.06:669][109]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_OrangeCBAF117D49AA0F1C33E927B5070C0009.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.45.06:670][109]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.45.31:013][  9]LogSavePackage: Save=25.69ms
+[2017.09.25-16.45.31:013][  9]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_OrangeB1A6D242488FBD6618A35B987A4F1A92.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.45.31:015][  9]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.45.57:047][106]LogSavePackage: Save=20.86ms
+[2017.09.25-16.45.57:047][106]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_Orange6C7C5C5D4B6BCB6739AE31ACC2A30F96.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.45.57:048][106]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.46.10:599][716]LogSavePackage: Save=26.06ms
+[2017.09.25-16.46.10:599][716]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_Orange3705EA334BF26CCF50AFA08DFF73D065.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-16.46.10:600][716]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-16.47.04:378][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_4" FILE="E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_4_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.09.25-16.47.35:281][325]LogSavePackage: Save=30900.48ms
+[2017.09.25-16.47.35:281][325]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Untitled_4_Auto47804ACE349EFE44F2A1EBF98F80C5828.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_4_Auto4.umap'
+[2017.09.25-16.47.35:281][325]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Saved/Autosaves/Temp/Untitled_4_Auto4.umap
+[2017.09.25-16.47.35:285][325]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_4' took 30.938
+[2017.09.25-16.47.35:285][325]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 30.938
+[2017.09.25-16.52.23:686][781]LogCascade: Quitting Cascade. FXSystem=0x00000000585F16C0
+[2017.09.25-17.00.42:512][ 15]LogSavePackage: Save=16.04ms
+[2017.09.25-17.00.42:512][ 15]LogSavePackage: Moving 'E:/UnrealEngine/Projects/Quest_v4.17/Saved/P_Posseser_Base_OrangeCC75377E47C2C3E3C2487094A47CC657.tmp' to 'E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset'
+[2017.09.25-17.00.42:513][ 15]LogSavePackage: Display: Finished SavePackage E:/UnrealEngine/Projects/Quest_v4.17/Content/Effects/Particles/Systems/P_Posseser_Base_Orange.uasset
+[2017.09.25-17.00.52:386][193]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.061 s
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: === Handled ensure: ===
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: 
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Engine\Private\PrimitiveSceneProxy.cpp] [Line: 662]
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: PrimitiveComponent tried to render with Material M_Fire_01_Add_6X6_INST, which was not present in the component's GetUsedMaterials results
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error:     Owner: P_Posseser_Base_Orange_11, Resource: P_Posseser_Base_Orange
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: Stack: 
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000C2C63606
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000C29EC2D2
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000C2A04746
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000B05D9D0D
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000B05712E1
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000B0417676
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000B04132DE
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000CC10538F
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000CC0EF897
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000CC10AD5A
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000CBBFF747
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000CC121B75
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x00000000CC100DE6
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000C28B24F5
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000C28B2ADA
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-RenderCore.dll!0x00000000E8861FB1
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-RenderCore.dll!0x00000000E8863076
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000C2C60678
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000C2C56ECC
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: kernel32.dll!0x0000000076DC59CD
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: ntdll.dll!0x0000000076FFA561
+[2017.09.25-17.00.52:386][193]LogOutputDevice: Error: 
+[2017.09.25-17.00.52:386][193]LogStats:                SubmitErrorReport -  0.000 s

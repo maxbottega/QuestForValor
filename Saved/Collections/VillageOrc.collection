@@ -1,0 +1,14 @@
+FileVersion:2
+Type:Static
+Guid:435CC333-4864-89F2-1AD8-8D8C51D43B50
+ParentGuid:B0B8937C-486D-E01D-8B32-A99BD32CD100
+
+/Game/Environment/OrcBuildings/Meshes/OrcBuildings_Altar.OrcBuildings_Altar
+/Game/Environment/OrcBuildings/Meshes/OrcBuildings_Barracks.OrcBuildings_Barracks
+/Game/Environment/OrcBuildings/Meshes/OrcBuildings_Factory.OrcBuildings_Factory
+/Game/Environment/OrcBuildings/Meshes/OrcBuildings_GuardTower.OrcBuildings_GuardTower
+/Game/Environment/OrcBuildings/Meshes/OrcBuildings_Hut.OrcBuildings_Hut
+/Game/Environment/OrcBuildings/Meshes/OrcBuildings_Lumberjack.OrcBuildings_Lumberjack
+/Game/Environment/OrcBuildings/Meshes/OrcBuildings_Mine.OrcBuildings_Mine
+/Game/Environment/OrcBuildings/Meshes/OrcBuildings_Smithy.OrcBuildings_Smithy
+/Game/Environment/OrcBuildings/Meshes/OrcBuildings_Throne.OrcBuildings_Throne

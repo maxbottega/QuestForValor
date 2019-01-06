@@ -1,0 +1,13 @@
+FileVersion:2
+Type:Static
+Guid:8F7C28C3-41D2-07F3-B8AC-7D9100B3EB7F
+ParentGuid:B0B8937C-486D-E01D-8B32-A99BD32CD100
+
+/Game/Environment/HumanBuildings/Meshes/HumanBuildings_Barracks.HumanBuildings_Barracks
+/Game/Environment/HumanBuildings/Meshes/HumanBuildings_Factory.HumanBuildings_Factory
+/Game/Environment/HumanBuildings/Meshes/HumanBuildings_House.HumanBuildings_House
+/Game/Environment/HumanBuildings/Meshes/HumanBuildings_Mine.HumanBuildings_Mine
+/Game/Environment/HumanBuildings/Meshes/HumanBuildings_Smithy.HumanBuildings_Smithy
+/Game/Environment/HumanBuildings/Meshes/HumanBuildings_Throne.HumanBuildings_Throne
+/Game/Environment/HumanBuildings/Meshes/HumanBuildings_Tower.HumanBuildings_Tower
+/Game/Environment/HumanBuildings/Meshes/HumanBuildings_WoodCutter.HumanBuildings_WoodCutter

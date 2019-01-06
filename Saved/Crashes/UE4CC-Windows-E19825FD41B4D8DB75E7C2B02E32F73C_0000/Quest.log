@@ -1,0 +1,299 @@
+Not using cached read wrapper
+Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+Stats thread started at 0.516920
+Loaded GFSDK_Aftermath_Lib.x64.dll
+ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+Mounting plugin Paper2D
+Mounting plugin AISupport
+Mounting plugin LightPropagationVolume
+Mounting plugin CLionSourceCodeAccess
+Mounting plugin CodeLiteSourceCodeAccess
+Mounting plugin GitSourceControl
+Mounting plugin KDevelopSourceCodeAccess
+Mounting plugin NullSourceCodeAccess
+Mounting plugin PerforceSourceControl
+Mounting plugin SubversionSourceControl
+Mounting plugin UObjectPlugin
+Mounting plugin VisualStudioCodeSourceCodeAccess
+Mounting plugin VisualStudioSourceCodeAccess
+Mounting plugin XCodeSourceCodeAccess
+Mounting plugin AssetManagerEditor
+Mounting plugin CryptoKeys
+Mounting plugin DataValidation
+Mounting plugin FacialAnimation
+Mounting plugin GameplayTagsEditor
+Mounting plugin MacGraphicsSwitching
+Mounting plugin MeshEditor
+Mounting plugin MobileLauncherProfileWizard
+Mounting plugin PluginBrowser
+Mounting plugin SpeedTreeImporter
+Mounting plugin DatasmithContent
+Mounting plugin AlembicImporter
+Mounting plugin AppleImageUtils
+Mounting plugin AppleVision
+Mounting plugin BackChannel
+Mounting plugin CharacterAI
+Mounting plugin GeometryCache
+Mounting plugin HTML5Networking
+Mounting plugin ProxyLODPlugin
+Mounting plugin MagicLeap
+Mounting plugin MagicLeapEmulator
+Mounting plugin MagicLeapMedia
+Mounting plugin AndroidMedia
+Mounting plugin AvfMedia
+Mounting plugin ImgMedia
+Mounting plugin LinearTimecode
+Mounting plugin MediaCompositing
+Mounting plugin MediaPlayerEditor
+Mounting plugin WmfMedia
+Mounting plugin TcpMessaging
+Mounting plugin UdpMessaging
+Mounting plugin ActorSequence
+Mounting plugin LevelSequenceEditor
+Mounting plugin MatineeToLevelSequence
+Mounting plugin NetcodeUnitTest
+Mounting plugin NUTUnrealEngine4
+Mounting plugin OnlineSubsystemGooglePlay
+Mounting plugin OnlineSubsystemIOS
+Mounting plugin OnlineSubsystem
+Mounting plugin OnlineSubsystemNull
+Mounting plugin OnlineSubsystemUtils
+Mounting plugin LauncherChunkInstaller
+Mounting plugin AndroidDeviceProfileSelector
+Mounting plugin AndroidMoviePlayer
+Mounting plugin AndroidPermission
+Mounting plugin ApexDestruction
+Mounting plugin AppleMoviePlayer
+Mounting plugin ArchVisCharacter
+Mounting plugin AudioCapture
+Mounting plugin CableComponent
+Mounting plugin CustomMeshComponent
+Mounting plugin EditableMesh
+Mounting plugin ExampleDeviceProfileSelector
+Mounting plugin GoogleCloudMessaging
+Mounting plugin ImmediatePhysics
+Mounting plugin IOSDeviceProfileSelector
+Mounting plugin LinuxDeviceProfileSelector
+Mounting plugin LocationServicesBPLibrary
+Mounting plugin MobilePatchingUtils
+Mounting plugin OculusVR
+Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+Mounting plugin PhysXVehicles
+Mounting plugin ProceduralMeshComponent
+Mounting plugin RuntimePhysXCooking
+Mounting plugin SteamVR
+Mounting plugin WindowsMoviePlayer
+Took  0.465s to configure plugins.
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.0.2h
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Failed initializing OVRPlugin 1.25.0
+Build: ++UE4+Release-4.20-CL-4369336
+Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+Net CL: 4212847
+OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1620 v4 @ 3.50GHz, GPU: NVIDIA Quadro P4000
+Compiled (64-bit): Sep 17 2018 12:26:19
+Compiled with Visual C++: 19.13.26129.00
+Build Configuration: Development
+Branch Name: ++UE4+Release-4.20
+Command Line:  
+Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+Installed Engine Build: 1
+Number of dev versions registered: 20
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+Took  0.005s to delete old logs.
+Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Object subsystem initialized
+Selected Device Profile: [Windows]
+Applying CVar settings loaded from the selected device profile: [Windows]
+Platform has ~ 32 GB [34271911936 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+Going up to parent DeviceProfile []
+Computer: GDSTF20
+User: jponzio
+CPU Page size=4096, Cores=4
+High frequency timer resolution =3.410072 MHz
+Memory total: Physical=31.9GB (32GB approx)
+Platform Memory Stats for Windows
+Process Physical Memory: 105.51 MB used, 105.51 MB peak
+Process Virtual Memory: 93.79 MB used, 93.79 MB peak
+Physical Memory: 16032.43 MB used,  16651.81 MB free, 32684.24 MB total
+Virtual Memory: 532.93 MB used,  16651.81 MB free, 134217728.00 MB total
+Using OS detected language (en-US).
+Using OS detected locale (en-US).
+No specific localization for 'en-US' exists, so the 'en' localization will be used.
+Took  0.479s to InitEngineTextLocalization.
+Setting process to per monitor DPI aware
+New Slate User Created.  User Index 0, Is Virtual User: 0
+Slate User Registered.  User Index 0, Is Virtual User: 0
+Failed to initialize OpenVR with code 110
+D3D11 adapters:
+   0. 'NVIDIA Quadro P4000' (Feature Level 11_0)
+      8092/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+   1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+      0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+Chosen D3D11 Adapter: 0
+Creating new Direct3DDevice
+    GPU DeviceId: 0x1bb1 (for the marketing name, search the web for "GPU Device Id")
+EnumDisplayDevices:
+   0. 'NVIDIA Quadro P4000' (P:0 D:1)
+   1. 'NVIDIA Quadro P4000' (P:1 D:1)
+   2. 'NVIDIA Quadro P4000' (P:0 D:0)
+   3. 'NVIDIA Quadro P4000' (P:0 D:0)
+   4. 'DameWare Development Mirror Driver 64-bit' (P:0 D:0)
+DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+    Adapter Name: NVIDIA Quadro P4000
+  Driver Version: 391.33 (internal:23.21.13.9133, unified:391.33)
+     Driver Date: 3-22-2018
+Texture pool is 5665 MB (70% of 8092 MB)
+Async texture creation enabled
+GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/jponzio/Perforce/LevelDesign/Templates/Quest/Intermediate/Shaders/WorkingDirectory/23744/).
+Cleaned the shader compiler working directory 'C:/Users/jponzio/AppData/Local/Temp/UnrealShaderWorkingDir/FE9D580C49F470BB615F4CA50C730D9A/'.
+Loaded TP AllDesktopTargetPlatform
+Loaded TP MacClientTargetPlatform
+Loaded TP MacNoEditorTargetPlatform
+Loaded TP MacServerTargetPlatform
+Loaded TP MacTargetPlatform
+Loaded TP WindowsClientTargetPlatform
+Loaded TP WindowsNoEditorTargetPlatform
+Loaded TP WindowsServerTargetPlatform
+Loaded TP WindowsTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP HTML5TargetPlatform
+Loaded TP IOSTargetPlatform
+Loaded TP IOSTargetPlatform
+Loaded TP TVOSTargetPlatform
+Loaded TP TVOSTargetPlatform
+Loaded TP LinuxClientTargetPlatform
+Loaded TP LinuxNoEditorTargetPlatform
+Loaded TP LinuxServerTargetPlatform
+Loaded TP LinuxTargetPlatform
+Loaded TP LuminTargetPlatform
+Building Assets For Windows
+Cleaning working directory: C:/Users/jponzio/AppData/Local/Temp/UnrealXGEWorkingDir/
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+Using Local Shader Compiler.
+Max Cache Size: 512 MB
+Loaded boot cache 0.37s 70MB C:/Users/jponzio/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+Loaded Boot cache: C:/Users/jponzio/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jponzio/Perforce/LevelDesign/Templates/Quest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchical cache Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jponzio/Perforce/LevelDesign/Templates/Quest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+Using Local data cache path C:/Users/jponzio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchical cache Hierarchy.
+Verifying Global Shaders for PCD3D_SM5
+Using FreeType 2.6.0
+SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+FAssetRegistry took 0.0288 seconds to start up
+Selected Device Profile: [Windows]
+Simplygon DLL not present - disabling.
+Using SimplygonSwarm for distributed automatic mesh merging
+Using ProxyLODMeshReduction for automatic mesh merging
+Using QuadricMeshReduction for automatic static mesh reduction
+No automatic skeletal mesh reduction module available
+Quest 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2219739654)
+[/Script/Engine.RecastNavMesh] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.RecastNavMesh]
+Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.301210 seconds
+38426 objects as part of root set at end of initial load.
+6691088 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Initializing TcpMessaging bridge
+Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+Source control is disabled
+Source control is disabled
+UAndroidPermissionCallbackProxy::GetInstance
+OculusInput pre-init called
+Initializing Engine...
+Failed to initialize OpenVR with code 110
+UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+Initializing FReadOnlyCVARCache
+Creating AISystem for world Untitled
+XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+FAudioDevice initialized.
+FPlatformStackWalk::StackWalkAndDump -  0.278 s
+=== Handled ensure: ===
+
+Ensure condition failed: InVersion != nullptr && FCString::Strlen(InVersion) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Misc\NetworkVersion.cpp] [Line: 29]
+ProjectVersion used for network version must be a valid string!
+Stack: 
+[Callstack] 0x00007ffb08c071f6 UE4Editor-Core.dll!UnknownFunction []
+[Callstack] 0x00007ffb08940c92 UE4Editor-Core.dll!UnknownFunction []
+[Callstack] 0x00007ffb0895b356 UE4Editor-Core.dll!UnknownFunction []
+[Callstack] 0x00007ffb089bd603 UE4Editor-Core.dll!UnknownFunction []
+[Callstack] 0x00007ffaf65cbd32 UE4Editor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ffb04c28568 UE4Editor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ffb04c26db0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ffb054fad67 UE4Editor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ff78f4429a1 UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ffb0555bce9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ff78f455a34 UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff78f455bba UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff78f463dac UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff78f465aaa UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ffb65e88364 KERNEL32.DLL!UnknownFunction []
+[Callstack] 0x00007ffb6895e851 ntdll.dll!UnknownFunction []
+
+               SubmitErrorReport -  0.000 s
